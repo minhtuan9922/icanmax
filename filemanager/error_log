@@ -1,0 +1,110 @@
+[10-May-2016 19:57:13 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../source/anhbaiviet/sapa-tet-binh-than-06.png is missing or invalid' in /home/jvietna14of/public_html/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/jvietna14of/public_html/filemanager/include/utils.php(218): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/jvietna14of/public_html/filemanager/upload.php(93): create_img('../source/anhba...', '../thumbs/anhba...', 122, 91)
+#2 {main}
+  thrown in /home/jvietna14of/public_html/filemanager/include/php_image_magician.php on line 346
+[20-Jan-2017 08:47:04 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[20-Jan-2017 08:47:04 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[20-Jan-2017 08:47:04 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[20-Jan-2017 08:47:04 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[20-Jan-2017 08:47:04 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[21-Feb-2017 11:00:16 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[21-Feb-2017 11:00:16 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[21-Feb-2017 11:00:16 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[21-Feb-2017 11:00:16 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[21-Feb-2017 11:00:16 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 07:46:23 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 07:46:23 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 07:46:23 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 07:46:23 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 07:46:23 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 08:25:59 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:26:07 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:26:19 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:26:48 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:26:57 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:32:46 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:48:21 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:48:27 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:52:00 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 08:52:27 Europe/Rome] PHP Warning:  scandir(/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 08:52:27 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 08:52:27 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 08:52:27 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 08:52:27 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 08:52:34 Europe/Rome] PHP Warning:  move_uploaded_file(/source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 08:52:34 Europe/Rome] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYrtLWs' to '/source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg' in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 08:52:34 Europe/Rome] PHP Warning:  chmod(): No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 88
+[23-Feb-2017 08:52:36 Europe/Rome] PHP Warning:  scandir(/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 08:52:36 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 08:52:36 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 08:52:36 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 08:52:36 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:10:51 Europe/Rome] PHP Warning:  mkdir(): Permission denied in /home/icanmaxc/public_html/filemanager/include/utils.php on line 332
+[23-Feb-2017 09:14:17 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:14:17 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:14:17 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:14:17 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:14:17 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:14:27 Europe/Rome] PHP Warning:  move_uploaded_file(../source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:14:27 Europe/Rome] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZUOHTv' to '../source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg' in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:14:27 Europe/Rome] PHP Warning:  chmod(): No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 88
+[23-Feb-2017 09:14:30 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:14:30 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:14:30 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:14:30 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:14:30 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:15:11 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:15:11 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:15:11 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:15:11 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:15:11 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:15:45 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:15:45 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:15:45 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:15:45 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:15:45 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:16:04 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:16:04 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:16:04 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:16:04 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:16:04 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:18:28 Europe/Rome] PHP Warning:  scandir(../upload/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:18:28 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:18:28 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:18:28 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:18:28 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:18:39 Europe/Rome] PHP Warning:  move_uploaded_file(../upload/source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:18:39 Europe/Rome] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj1fqDb' to '../upload/source/9-hot-girl-viet-chuyen-huong-sang-phong-cach-sexy-guong-mat-tre-0.jpg' in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:18:39 Europe/Rome] PHP Warning:  chmod(): No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 88
+[23-Feb-2017 09:18:41 Europe/Rome] PHP Warning:  scandir(../upload/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:18:41 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:18:41 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:18:41 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:18:41 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:19:26 Europe/Rome] PHP Warning:  move_uploaded_file(../upload/source/10-diem-den-dep-nhat-viet-nam-theo-rough-guides-1.jpg): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:19:26 Europe/Rome] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMWWSkE' to '../upload/source/10-diem-den-dep-nhat-viet-nam-theo-rough-guides-1.jpg' in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:19:26 Europe/Rome] PHP Warning:  chmod(): No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 88
+[23-Feb-2017 09:19:42 Europe/Rome] PHP Warning:  scandir(../upload/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:19:42 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:19:42 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:19:42 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:19:42 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:19:51 Europe/Rome] PHP Warning:  move_uploaded_file(../upload/source/ben-tu-hinh-khet-tieng-mot-thoi-ben-dong-song-thames-0.jpg): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:19:51 Europe/Rome] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfThAQ5' to '../upload/source/ben-tu-hinh-khet-tieng-mot-thoi-ben-dong-song-thames-0.jpg' in /home/icanmaxc/public_html/filemanager/upload.php on line 87
+[23-Feb-2017 09:19:51 Europe/Rome] PHP Warning:  chmod(): No such file or directory in /home/icanmaxc/public_html/filemanager/upload.php on line 88
+[23-Feb-2017 09:20:40 Europe/Rome] PHP Warning:  scandir(/filemanager/upload/source/): failed to open dir: No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:20:40 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/icanmaxc/public_html/filemanager/dialog.php on line 473
+[23-Feb-2017 09:20:40 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 482
+[23-Feb-2017 09:20:40 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 09:20:40 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/icanmaxc/public_html/filemanager/dialog.php on line 961
+[23-Feb-2017 08:26:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/icanmaxc/public_html/filemanager/upload.php on line 81
+[23-Feb-2017 08:27:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/icanmaxc/public_html/filemanager/upload.php on line 81
+[23-Feb-2017 08:27:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/icanmaxc/public_html/filemanager/upload.php on line 81
+[23-Feb-2017 09:40:29 Europe/Rome] PHP Warning:  include(/home/icanmaxc/public_html/filemanager/lang/vi_VN.php): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70
+[23-Feb-2017 09:40:29 Europe/Rome] PHP Warning:  include(): Failed opening '/home/icanmaxc/public_html/filemanager/lang/vi_VN.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70
+[23-Feb-2017 09:40:40 Europe/Rome] PHP Warning:  include(/home/icanmaxc/public_html/filemanager/lang/vi_VN.php): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70
+[23-Feb-2017 09:40:40 Europe/Rome] PHP Warning:  include(): Failed opening '/home/icanmaxc/public_html/filemanager/lang/vi_VN.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70
+[23-Feb-2017 09:40:44 Europe/Rome] PHP Warning:  include(/home/icanmaxc/public_html/filemanager/lang/vi_VN.php): failed to open stream: No such file or directory in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70
+[23-Feb-2017 09:40:44 Europe/Rome] PHP Warning:  include(): Failed opening '/home/icanmaxc/public_html/filemanager/lang/vi_VN.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/icanmaxc/public_html/filemanager/include/utils.php on line 70

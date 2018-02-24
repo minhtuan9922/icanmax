@@ -1,0 +1,56 @@
+[04-Sep-2015 04:32:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:32:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:34:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:34:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:34:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:35:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:35:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:35:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:35:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:36:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:36:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:36:28 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:36:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[04-Sep-2015 04:36:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tuifdcom/public_html/application/modules/home/controllers/index.php on line 32
+[05-Sep-2015 07:30:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/tuifdcom/public_html/application/modules/admin/controllers/banner.php on line 136
+[05-Sep-2015 07:30:04 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/tuifdcom/public_html/application/modules/admin/controllers/banner.php on line 136
+[05-Sep-2015 07:30:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/tuifdcom/public_html/application/modules/admin/controllers/banner.php on line 136
+[05-Sep-2015 07:30:16 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/tuifdcom/public_html/application/modules/admin/controllers/banner.php on line 136
+[19-Jan-2017 07:52:28 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:30 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:31 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:32 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:33 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:33 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[19-Jan-2017 07:52:34 UTC] PHP Fatal error:  Call to undefined function php_version() in /home/icanmaxc/public_html/info.php on line 2
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/mysqli.so' - /opt/alt/php54/usr/lib64/php/modules/mysqli.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/pdo_sqlite.so' - /opt/alt/php54/usr/lib64/php/modules/pdo_sqlite.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/phar.so' - /opt/alt/php54/usr/lib64/php/modules/phar.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/posix.so' - /opt/alt/php54/usr/lib64/php/modules/posix.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/soap.so' - /opt/alt/php54/usr/lib64/php/modules/soap.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/sockets.so' - /opt/alt/php54/usr/lib64/php/modules/sockets.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/suhosin.so' - /opt/alt/php54/usr/lib64/php/modules/suhosin.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/tidy.so' - /opt/alt/php54/usr/lib64/php/modules/tidy.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/wddx.so' - /opt/alt/php54/usr/lib64/php/modules/wddx.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xmlreader.so' - /opt/alt/php54/usr/lib64/php/modules/xmlreader.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xmlrpc.so' - /opt/alt/php54/usr/lib64/php/modules/xmlrpc.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xmlwriter.so' - /opt/alt/php54/usr/lib64/php/modules/xmlwriter.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/xsl.so' - /opt/alt/php54/usr/lib64/php/modules/xsl.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[26-Jan-2017 20:43:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php54/usr/lib64/php/modules/zip.so' - /opt/alt/php54/usr/lib64/php/modules/zip.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[08-Feb-2017 10:12:50 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:15:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:15:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:15:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:15:51 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:15:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:16:16 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:16:18 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:16:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:17:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:19:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:19:36 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:20:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:20:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:20:41 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:20:47 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41
+[08-Feb-2017 10:33:13 UTC] PHP Fatal error:  Can't use method return value in write context in /home/icanmaxc/public_html/application/modules/home/views/common/header.php on line 41

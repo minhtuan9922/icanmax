@@ -1,0 +1,2941 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-03 16:41+0200\n"
+"PO-Revision-Date: 2015-12-03 16:42+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: activation.php:25 friend_requests.php:37 game.php:36 group.php:49
+#: group.php:60 index.php:137 messages.php:26 messages.php:38
+#: notifications.php:37 page.php:50 page.php:69 photo.php:49 post.php:41
+#: profile.php:73 profile.php:88 profile.php:98 profile.php:109
+#: content/themes/default/templates/_js_translator.tpl:7
+#: includes/functions.php:63 includes/ajax/chat/get.conversation.php:52
+#: includes/ajax/chat/get.messages.php:96
+#: includes/ajax/chat/initialize.php:41 includes/ajax/chat/live.php:162
+#: includes/ajax/chat/post.php:70 includes/ajax/chat/reaction.php:69
+#: includes/ajax/core/activation_email_resend.php:30
+#: includes/ajax/core/translator.php:41 includes/ajax/data/live.php:114
+#: includes/ajax/data/load.php:265 includes/ajax/data/report.php:69
+#: includes/ajax/data/reset.php:33 includes/ajax/data/search.php:49
+#: includes/ajax/data/upload.php:155 includes/ajax/posts/comment.php:66
+#: includes/ajax/posts/lightbox.php:46 includes/ajax/posts/post.php:101
+#: includes/ajax/posts/reaction.php:92 includes/ajax/posts/scraber.php:45
+#: includes/ajax/posts/who_likes.php:79 includes/ajax/posts/who_shares.php:51
+#: includes/ajax/users/autocomplete.php:53 includes/ajax/users/connect.php:45
+#: includes/ajax/users/image.php:115 includes/ajax/users/mention.php:44
+#: includes/ajax/users/mutual_friends.php:49
+#: includes/ajax/users/popover.php:55
+msgid "Error"
+msgstr "Hata"
+
+#: admin.php:20 bootstrap.php:152 bootstrap.php:157
+#: includes/ajax/admin/ads.php:18 includes/ajax/admin/category.php:18
+#: includes/ajax/admin/delete.php:18 includes/ajax/admin/games.php:18
+#: includes/ajax/admin/group.php:18 includes/ajax/admin/language.php:18
+#: includes/ajax/admin/page.php:18 includes/ajax/admin/settings.php:18
+#: includes/ajax/admin/static.php:18 includes/ajax/admin/theme.php:18
+#: includes/ajax/admin/user.php:18 includes/ajax/admin/widgets.php:18
+msgid "System Message"
+msgstr "Sistem Mesajı"
+
+#: admin.php:20 includes/ajax/admin/ads.php:18
+#: includes/ajax/admin/category.php:18 includes/ajax/admin/delete.php:18
+#: includes/ajax/admin/games.php:18 includes/ajax/admin/group.php:18
+#: includes/ajax/admin/language.php:18 includes/ajax/admin/page.php:18
+#: includes/ajax/admin/settings.php:18 includes/ajax/admin/static.php:18
+#: includes/ajax/admin/theme.php:18 includes/ajax/admin/user.php:18
+#: includes/ajax/admin/widgets.php:18
+msgid "You don't have the right permission to access this"
+msgstr "Bu özellik için yeterli izniniz yok! Lütfen Site Yönetimine Başvurun!"
+
+#: admin.php:27 content/themes/default/templates/index.tpl:145
+#: content/themes/default/templates/_header.tpl:46
+msgid "Admin Panel"
+msgstr "Admin paneli"
+
+#: admin.php:74 admin.php:82 admin.php:99 admin.php:116 admin.php:133
+#: admin.php:150 admin.php:189 admin.php:203 admin.php:238 admin.php:252
+#: admin.php:278 admin.php:283 admin.php:297 admin.php:330 admin.php:344
+#: admin.php:361 admin.php:384 admin.php:410 admin.php:441 admin.php:446
+#: admin.php:460 admin.php:491 admin.php:496 admin.php:510 admin.php:541
+#: admin.php:546 admin.php:560 admin.php:591 admin.php:596 admin.php:610
+#: admin.php:641 admin.php:646 admin.php:660 admin.php:692 admin.php:697
+msgid "Admin"
+msgstr "Yönetici"
+
+#: admin.php:74 settings.php:24 settings.php:31 settings.php:36
+#: settings.php:41 settings.php:51
+#: content/themes/default/templates/admin.settings.tpl:4
+#: content/themes/default/templates/admin.tpl:25
+#: content/themes/default/templates/_header.tpl:123
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: admin.php:82 admin.php:99 admin.php:116 admin.php:133 admin.php:150
+#: admin.php:189 admin.php:344
+#: content/themes/default/templates/admin.dashboard.tpl:7
+#: content/themes/default/templates/admin.tpl:75
+#: content/themes/default/templates/admin.users.tpl:11
+#: content/themes/default/templates/admin.users.tpl:210
+#: content/themes/default/templates/index.tpl:277
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: admin.php:99 content/themes/default/templates/admin.users.tpl:204
+msgid "Admins"
+msgstr "Yöneticiler"
+
+#: admin.php:116 content/themes/default/templates/admin.users.tpl:207
+msgid "Moderators"
+msgstr "Moderatörler"
+
+#: admin.php:133 content/themes/default/templates/admin.dashboard.tpl:59
+#: content/themes/default/templates/admin.users.tpl:487
+#: content/themes/default/templates/settings.tpl:338
+msgid "Online"
+msgstr "Çevrimiçi"
+
+#: admin.php:150 content/themes/default/templates/admin.dashboard.tpl:39
+#: content/themes/default/templates/admin.users.tpl:163
+msgid "Banned"
+msgstr "Banlandı"
+
+#: admin.php:203 admin.php:238 admin.php:361 index.php:93
+#: content/themes/default/templates/admin.dashboard.tpl:93
+#: content/themes/default/templates/admin.pages.tpl:11
+#: content/themes/default/templates/admin.tpl:111
+#: content/themes/default/templates/index.tpl:282
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: admin.php:252 admin.php:278 admin.php:283
+#: content/themes/default/templates/admin.categories.tpl:11
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: admin.php:283 admin.php:446 admin.php:496 admin.php:546 admin.php:596
+#: admin.php:646 admin.php:697 content/themes/default/templates/admin.tpl:44
+#: content/themes/default/templates/admin.tpl:65
+#: content/themes/default/templates/admin.tpl:130
+#: content/themes/default/templates/admin.tpl:188
+#: content/themes/default/templates/admin.tpl:209
+#: content/themes/default/templates/admin.tpl:230
+#: content/themes/default/templates/admin.tpl:251
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: admin.php:297 admin.php:330 index.php:98
+#: content/themes/default/templates/admin.dashboard.tpl:103
+#: content/themes/default/templates/admin.groups.tpl:11
+#: content/themes/default/templates/admin.tpl:140
+#: content/themes/default/templates/index.tpl:287
+#: content/themes/default/templates/profile.tpl:141
+#: content/themes/default/templates/profile.tpl:412
+#: content/themes/default/templates/profile.tpl:694
+msgid "Groups"
+msgstr "Gruplar"
+
+#: admin.php:344 admin.php:361
+#: content/themes/default/templates/admin.pages.tpl:25
+#: content/themes/default/templates/admin.verified.tpl:4
+#: content/themes/default/templates/admin.verified.tpl:72
+msgid "Verified"
+msgstr "Onaylanmış"
+
+#: admin.php:384 content/themes/default/templates/admin.reports.tpl:4
+#: content/themes/default/templates/admin.tpl:169
+msgid "Reports"
+msgstr "Raporlar"
+
+#: admin.php:410 admin.php:441 admin.php:446
+#: content/themes/default/templates/admin.static.tpl:11
+#: content/themes/default/templates/admin.tpl:177
+msgid "Static Pages"
+msgstr "Statik sayfaları"
+
+#: admin.php:460 admin.php:491 admin.php:496
+#: content/themes/default/templates/admin.ads.tpl:11
+#: content/themes/default/templates/admin.tpl:198
+msgid "Ads"
+msgstr "Reklam"
+
+#: admin.php:510 admin.php:541 admin.php:546
+#: content/themes/default/templates/admin.languages.tpl:11
+#: content/themes/default/templates/admin.tpl:33
+msgid "Languages"
+msgstr "Dosya"
+
+#: admin.php:560 admin.php:591 admin.php:596
+#: content/themes/default/templates/admin.themes.tpl:11
+#: content/themes/default/templates/admin.tpl:54
+msgid "Themes"
+msgstr "Tema"
+
+#: admin.php:610 admin.php:641 admin.php:646
+#: content/themes/default/templates/admin.tpl:219
+#: content/themes/default/templates/admin.widgets.tpl:11
+msgid "Widgets"
+msgstr "Widget’ler"
+
+#: admin.php:660 admin.php:692 admin.php:697 index.php:123
+#: content/themes/default/templates/admin.games.tpl:11
+#: content/themes/default/templates/index.tpl:164
+#: content/themes/default/templates/index.tpl:520
+msgid "Games"
+msgstr "Oyunlar"
+
+#: bootstrap.php:157
+msgid "Your account has been blocked"
+msgstr "Hesabınız bloke"
+
+#: friend_requests.php:22 content/themes/default/templates/profile.tpl:451
+#: content/themes/default/templates/profile.tpl:522
+#: content/themes/default/templates/profile.tpl:587
+#: content/themes/default/templates/_header.friend_requests.tpl:10
+msgid "Friend Requests"
+msgstr "Arkadaşlık istekleri"
+
+#: index.php:16 content/themes/default/templates/index.tpl:11
+#: includes/class-user.php:3255 includes/class-user.php:3482
+#: includes/class-user.php:3883 includes/class-user.php:3940
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+#: index.php:78 content/themes/default/templates/index.tpl:239
+#: content/themes/default/templates/index.tpl:249
+msgid "Search"
+msgstr "Site içinde arama yapın"
+
+#: index.php:103 content/themes/default/templates/index.tpl:186
+#: content/themes/default/templates/index.tpl:363
+#: content/themes/default/templates/index.tpl:443
+#: content/themes/default/templates/_header.tpl:127
+msgid "Create Page"
+msgstr "Sayfa Oluştur"
+
+#: index.php:113 content/themes/default/templates/index.tpl:210
+#: content/themes/default/templates/index.tpl:403
+#: content/themes/default/templates/index.tpl:486
+#: content/themes/default/templates/_header.tpl:134
+msgid "Create Group"
+msgstr "Grup oluştur"
+
+#: messages.php:16 content/themes/default/templates/admin.dashboard.tpl:115
+#: content/themes/default/templates/index.tpl:160
+#: content/themes/default/templates/_header.messages.tpl:10
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: notifications.php:16
+#: content/themes/default/templates/admin.dashboard.tpl:124
+#: content/themes/default/templates/_header.notifications.tpl:10
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: page.php:23
+msgid "N/A"
+msgstr "Uygulanamaz"
+
+#: reset.php:18
+msgid "Forgot your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: settings.php:24 content/themes/default/templates/index.tpl:138
+#: content/themes/default/templates/settings.tpl:16
+#: content/themes/default/templates/settings.tpl:141
+msgid "Edit Profile"
+msgstr "Profili Düzenle"
+
+#: settings.php:31 content/themes/default/templates/settings.tpl:19
+#: content/themes/default/templates/settings.tpl:323
+msgid "Privacy Settings"
+msgstr "Uygulama gizlilik ayarları"
+
+#: settings.php:36 content/themes/default/templates/settings.tpl:22
+#: content/themes/default/templates/settings.tpl:476
+msgid "Linked Accounts"
+msgstr "Bağlantılı hesapları"
+
+#: settings.php:41 content/themes/default/templates/settings.tpl:25
+msgid "Blocking"
+msgstr "Bloklama"
+
+#: settings.php:51 content/themes/default/templates/settings.tpl:13
+#: content/themes/default/templates/settings.tpl:40
+msgid "Account Settings"
+msgstr "Hesap Ayarlarım"
+
+#: signin.php:18 content/themes/default/templates/index.tpl:33
+#: content/themes/default/templates/signin.tpl:8
+#: content/themes/default/templates/signin.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:21
+msgid "Login"
+msgstr "Giriş"
+
+#: signup.php:18 content/themes/default/templates/index.tpl:104
+#: content/themes/default/templates/signup.tpl:73
+#: content/themes/default/templates/signup_social.tpl:44
+msgid "Sign Up"
+msgstr "Başvur"
+
+#: content/themes/default/templates/admin.ads.tpl:6
+msgid "Add New Ads"
+msgstr "Yeni reklam Ekle"
+
+#: content/themes/default/templates/admin.ads.tpl:21
+#: content/themes/default/templates/admin.categories.tpl:21
+#: content/themes/default/templates/admin.games.tpl:21
+#: content/themes/default/templates/admin.groups.tpl:20
+#: content/themes/default/templates/admin.languages.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:20
+#: content/themes/default/templates/admin.reports.tpl:11
+#: content/themes/default/templates/admin.static.tpl:21
+#: content/themes/default/templates/admin.themes.tpl:21
+#: content/themes/default/templates/admin.users.tpl:21
+#: content/themes/default/templates/admin.verified.tpl:12
+#: content/themes/default/templates/admin.verified.tpl:67
+#: content/themes/default/templates/admin.widgets.tpl:21
+msgid "ID"
+msgstr "ID"
+
+#: content/themes/default/templates/admin.ads.tpl:22
+#: content/themes/default/templates/admin.ads.tpl:60
+#: content/themes/default/templates/admin.ads.tpl:114
+#: content/themes/default/templates/admin.categories.tpl:22
+#: content/themes/default/templates/admin.groups.tpl:23
+#: content/themes/default/templates/admin.groups.tpl:98
+#: content/themes/default/templates/admin.languages.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:23
+#: content/themes/default/templates/admin.pages.tpl:135
+#: content/themes/default/templates/admin.static.tpl:64
+#: content/themes/default/templates/admin.static.tpl:107
+#: content/themes/default/templates/admin.verified.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:22
+#: content/themes/default/templates/admin.widgets.tpl:58
+#: content/themes/default/templates/admin.widgets.tpl:112
+#: content/themes/default/templates/group.tpl:242
+#: content/themes/default/templates/index.tpl:457
+#: content/themes/default/templates/index.tpl:492
+#: content/themes/default/templates/page.tpl:206
+msgid "Title"
+msgstr "Başlık"
+
+#: content/themes/default/templates/admin.ads.tpl:23
+#: content/themes/default/templates/admin.ads.tpl:68
+#: content/themes/default/templates/admin.ads.tpl:122
+#: content/themes/default/templates/admin.widgets.tpl:23
+#: content/themes/default/templates/admin.widgets.tpl:66
+#: content/themes/default/templates/admin.widgets.tpl:120
+msgid "Place"
+msgstr "Bahis Yatır"
+
+#: content/themes/default/templates/admin.ads.tpl:24
+msgid "Date"
+msgstr "Tarih"
+
+#: content/themes/default/templates/admin.ads.tpl:25
+#: content/themes/default/templates/admin.categories.tpl:23
+#: content/themes/default/templates/admin.games.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:25
+#: content/themes/default/templates/admin.languages.tpl:28
+#: content/themes/default/templates/admin.pages.tpl:26
+#: content/themes/default/templates/admin.reports.tpl:16
+#: content/themes/default/templates/admin.static.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:25
+#: content/themes/default/templates/admin.users.tpl:28
+#: content/themes/default/templates/admin.verified.tpl:19
+#: content/themes/default/templates/admin.verified.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:24
+msgid "Actions"
+msgstr "Atif"
+
+#: content/themes/default/templates/admin.ads.tpl:34
+#: content/themes/default/templates/admin.ads.tpl:72
+#: content/themes/default/templates/admin.ads.tpl:126
+#: content/themes/default/templates/admin.widgets.tpl:33
+#: content/themes/default/templates/admin.widgets.tpl:70
+#: content/themes/default/templates/admin.widgets.tpl:124
+msgid "Home Page"
+msgstr "Anasayfa"
+
+#: content/themes/default/templates/admin.ads.tpl:35
+#: content/themes/default/templates/admin.ads.tpl:73
+#: content/themes/default/templates/admin.ads.tpl:127
+#: content/themes/default/templates/admin.widgets.tpl:34
+#: content/themes/default/templates/admin.widgets.tpl:71
+#: content/themes/default/templates/admin.widgets.tpl:125
+msgid "Friends Requests Page"
+msgstr "Arkadaş istekleri sayfa"
+
+#: content/themes/default/templates/admin.ads.tpl:36
+#: content/themes/default/templates/admin.ads.tpl:74
+#: content/themes/default/templates/admin.ads.tpl:128
+#: content/themes/default/templates/admin.widgets.tpl:35
+#: content/themes/default/templates/admin.widgets.tpl:72
+#: content/themes/default/templates/admin.widgets.tpl:126
+msgid "Notifications Page"
+msgstr "Bildirimleri sayfa"
+
+#: content/themes/default/templates/admin.ads.tpl:37
+#: content/themes/default/templates/admin.ads.tpl:75
+#: content/themes/default/templates/admin.ads.tpl:129
+#: content/themes/default/templates/admin.widgets.tpl:36
+#: content/themes/default/templates/admin.widgets.tpl:73
+#: content/themes/default/templates/admin.widgets.tpl:127
+msgid "Post Page"
+msgstr "Tekli Mesaj Sayfası SEO"
+
+#: content/themes/default/templates/admin.ads.tpl:38
+#: content/themes/default/templates/admin.ads.tpl:76
+#: content/themes/default/templates/admin.ads.tpl:130
+#: content/themes/default/templates/admin.widgets.tpl:37
+#: content/themes/default/templates/admin.widgets.tpl:74
+#: content/themes/default/templates/admin.widgets.tpl:128
+msgid "Photo Page"
+msgstr "Fotoğraf sayfası"
+
+#: content/themes/default/templates/admin.ads.tpl:83
+#: content/themes/default/templates/admin.ads.tpl:136
+#: content/themes/default/templates/admin.static.tpl:72
+#: content/themes/default/templates/admin.static.tpl:115
+#: content/themes/default/templates/admin.widgets.tpl:81
+#: content/themes/default/templates/admin.widgets.tpl:134
+msgid "HTML"
+msgstr "HTML"
+
+#: content/themes/default/templates/admin.ads.tpl:92
+#: content/themes/default/templates/admin.ads.tpl:145
+#: content/themes/default/templates/admin.categories.tpl:60
+#: content/themes/default/templates/admin.categories.tpl:88
+#: content/themes/default/templates/admin.games.tpl:113
+#: content/themes/default/templates/admin.games.tpl:174
+#: content/themes/default/templates/admin.groups.tpl:125
+#: content/themes/default/templates/admin.languages.tpl:148
+#: content/themes/default/templates/admin.languages.tpl:246
+#: content/themes/default/templates/admin.pages.tpl:162
+#: content/themes/default/templates/admin.settings.tpl:426
+#: content/themes/default/templates/admin.static.tpl:81
+#: content/themes/default/templates/admin.static.tpl:124
+#: content/themes/default/templates/admin.themes.tpl:85
+#: content/themes/default/templates/admin.themes.tpl:126
+#: content/themes/default/templates/admin.users.tpl:227
+#: content/themes/default/templates/admin.users.tpl:372
+#: content/themes/default/templates/admin.users.tpl:401
+#: content/themes/default/templates/admin.users.tpl:430
+#: content/themes/default/templates/admin.users.tpl:459
+#: content/themes/default/templates/admin.users.tpl:617
+#: content/themes/default/templates/admin.widgets.tpl:90
+#: content/themes/default/templates/admin.widgets.tpl:143
+#: content/themes/default/templates/settings.tpl:73
+#: content/themes/default/templates/settings.tpl:94
+#: content/themes/default/templates/settings.tpl:123
+#: content/themes/default/templates/settings.tpl:225
+#: content/themes/default/templates/settings.tpl:250
+#: content/themes/default/templates/settings.tpl:276
+#: content/themes/default/templates/settings.tpl:306
+#: content/themes/default/templates/settings.tpl:459
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: content/themes/default/templates/admin.ads.tpl:109
+msgid ""
+"When you add mutiple ads at the samle location, they will be displayed "
+"randomly"
+msgstr ""
+"Samle konumda birden fazla reklam eklediğinizde, rastgele görüntülenir"
+
+#: content/themes/default/templates/admin.categories.tpl:6
+msgid "Add New category"
+msgstr "Yeni Kategori Ekle"
+
+#: content/themes/default/templates/admin.categories.tpl:51
+#: content/themes/default/templates/admin.categories.tpl:79
+#: content/themes/default/templates/admin.games.tpl:23
+#: content/themes/default/templates/admin.games.tpl:59
+#: content/themes/default/templates/admin.games.tpl:131
+#: content/themes/default/templates/admin.themes.tpl:23
+#: content/themes/default/templates/admin.themes.tpl:76
+#: content/themes/default/templates/admin.themes.tpl:117
+#: content/themes/default/templates/admin.users.tpl:24
+#: content/themes/default/templates/admin.verified.tpl:15
+msgid "Name"
+msgstr "İsim"
+
+#: content/themes/default/templates/admin.dashboard.tpl:8
+#: content/themes/default/templates/admin.dashboard.tpl:50
+msgid "Manage Users"
+msgstr "Kullanıcıları Yönet"
+
+#: content/themes/default/templates/admin.dashboard.tpl:18
+msgid "Males"
+msgstr "Erkek"
+
+#: content/themes/default/templates/admin.dashboard.tpl:28
+msgid "Females"
+msgstr "Dişi"
+
+#: content/themes/default/templates/admin.dashboard.tpl:40
+msgid "Manage Banned"
+msgstr "Yasaklı yönetmek"
+
+#: content/themes/default/templates/admin.dashboard.tpl:49
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/posts/comment.php:22
+#: includes/ajax/posts/post.php:22 includes/ajax/posts/reaction.php:22
+#: includes/ajax/posts/scraber.php:22 includes/ajax/posts/who_likes.php:22
+#: includes/ajax/posts/who_shares.php:22 includes/ajax/users/connect.php:22
+#: includes/ajax/users/image.php:22 includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid "Not Activated"
+msgstr "Aktif Değil"
+
+#: content/themes/default/templates/admin.dashboard.tpl:60
+msgid "Manage Online"
+msgstr "Online yönetmek"
+
+#: content/themes/default/templates/admin.dashboard.tpl:71
+#: content/themes/default/templates/index.tpl:272
+msgid "Posts"
+msgstr "Yazı"
+
+#: content/themes/default/templates/admin.dashboard.tpl:72
+#: content/themes/default/templates/admin.dashboard.tpl:82
+msgid "Manage Reports"
+msgstr "Raporlarını yönetme"
+
+#: content/themes/default/templates/admin.dashboard.tpl:81
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: content/themes/default/templates/admin.dashboard.tpl:94
+#: content/themes/default/templates/index.tpl:189
+#: content/themes/default/templates/_header.tpl:130
+msgid "Manage Pages"
+msgstr "Sayfaları Yönet"
+
+#: content/themes/default/templates/admin.dashboard.tpl:104
+#: content/themes/default/templates/index.tpl:213
+#: content/themes/default/templates/_header.tpl:137
+msgid "Manage Groups"
+msgstr "Grupları Yönet"
+
+#: content/themes/default/templates/admin.games.tpl:6
+msgid "Add New game"
+msgstr "Yeni bir oyun eklemek"
+
+#: content/themes/default/templates/admin.games.tpl:22
+#: content/themes/default/templates/admin.games.tpl:86
+#: content/themes/default/templates/admin.games.tpl:158
+#: content/themes/default/templates/admin.themes.tpl:22
+msgid "Thumbnail"
+msgstr "Küçük resim"
+
+#: content/themes/default/templates/admin.games.tpl:67
+#: content/themes/default/templates/admin.games.tpl:139
+#: content/themes/default/templates/group.tpl:250
+#: content/themes/default/templates/index.tpl:465
+#: content/themes/default/templates/index.tpl:500
+#: content/themes/default/templates/page.tpl:214
+msgid "Description"
+msgstr "Açıklama"
+
+#: content/themes/default/templates/admin.games.tpl:75
+#: content/themes/default/templates/admin.games.tpl:147
+msgid "Game Source"
+msgstr "Oyun kaynak"
+
+#: content/themes/default/templates/admin.games.tpl:80
+#: content/themes/default/templates/admin.games.tpl:152
+msgid "The source link of your embedded game"
+msgstr "Katıştırılmış oyunun kaynak bağlantı"
+
+#: content/themes/default/templates/admin.groups.tpl:6
+msgid "Go to this group"
+msgstr "Bu grubuna gider"
+
+#: content/themes/default/templates/admin.groups.tpl:21
+#: content/themes/default/templates/admin.pages.tpl:21
+#: content/themes/default/templates/admin.users.tpl:22
+#: content/themes/default/templates/admin.verified.tpl:13
+#: content/themes/default/templates/admin.verified.tpl:68
+msgid "Picture"
+msgstr "Fotoğraf"
+
+#: content/themes/default/templates/admin.groups.tpl:22
+#: content/themes/default/templates/admin.pages.tpl:22
+#: content/themes/default/templates/admin.static.tpl:56
+#: content/themes/default/templates/admin.static.tpl:99
+#: content/themes/default/templates/admin.verified.tpl:69
+msgid "URL"
+msgstr "URL"
+
+#: content/themes/default/templates/admin.groups.tpl:24
+#: content/themes/default/templates/admin.groups.tpl:76
+#: content/themes/default/templates/group.tpl:85
+#: content/themes/default/templates/group.tpl:168
+#: content/themes/default/templates/group.tpl:176
+#: content/themes/default/templates/__feeds_group.tpl:24
+msgid "Members"
+msgstr "Üyeler"
+
+#: content/themes/default/templates/admin.groups.tpl:72
+msgid "Group ID"
+msgstr "Group ID"
+
+#: content/themes/default/templates/admin.groups.tpl:85
+msgid "Group Info"
+msgstr "Grup bilgisi"
+
+#: content/themes/default/templates/admin.groups.tpl:107
+#: content/themes/default/templates/admin.groups.tpl:116
+#: content/themes/default/templates/admin.pages.tpl:144
+#: content/themes/default/templates/admin.pages.tpl:153
+#: content/themes/default/templates/admin.users.tpl:23
+#: content/themes/default/templates/admin.users.tpl:123
+#: content/themes/default/templates/admin.users.tpl:392
+#: content/themes/default/templates/admin.verified.tpl:14
+#: content/themes/default/templates/group.tpl:246
+#: content/themes/default/templates/index.tpl:461
+#: content/themes/default/templates/index.tpl:496
+#: content/themes/default/templates/page.tpl:210
+#: content/themes/default/templates/settings.tpl:48
+#: content/themes/default/templates/settings.tpl:69
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:43
+#: content/themes/default/templates/signup_social.tpl:20
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: content/themes/default/templates/admin.languages.tpl:6
+msgid "Add New Language"
+msgstr "Yeni bir dil ekle"
+
+#: content/themes/default/templates/admin.languages.tpl:23
+#: content/themes/default/templates/admin.languages.tpl:100
+#: content/themes/default/templates/admin.languages.tpl:198
+msgid "Code"
+msgstr "Kod"
+
+#: content/themes/default/templates/admin.languages.tpl:24
+msgid "Flag"
+msgstr "Şikayet"
+
+#: content/themes/default/templates/admin.languages.tpl:25
+msgid "Dir"
+msgstr "Dizin"
+
+#: content/themes/default/templates/admin.languages.tpl:26
+#: content/themes/default/templates/admin.languages.tpl:72
+#: content/themes/default/templates/admin.languages.tpl:170
+#: content/themes/default/templates/admin.themes.tpl:24
+#: content/themes/default/templates/admin.themes.tpl:62
+#: content/themes/default/templates/admin.themes.tpl:103
+msgid "Default"
+msgstr "Varsayılan"
+
+#: content/themes/default/templates/admin.languages.tpl:27
+#: content/themes/default/templates/admin.languages.tpl:86
+#: content/themes/default/templates/admin.languages.tpl:184
+msgid "Enabled"
+msgstr "Açık"
+
+#: content/themes/default/templates/admin.languages.tpl:41
+#: content/themes/default/templates/admin.languages.tpl:48
+#: content/themes/default/templates/admin.pages.tpl:54
+#: content/themes/default/templates/admin.themes.tpl:38
+#: content/themes/default/templates/admin.users.tpl:53
+#: content/themes/default/templates/admin.verified.tpl:44
+#: content/themes/default/templates/admin.verified.tpl:101
+msgid "Yes"
+msgstr "Evet"
+
+#: content/themes/default/templates/admin.languages.tpl:43
+#: content/themes/default/templates/admin.languages.tpl:50
+#: content/themes/default/templates/admin.pages.tpl:56
+#: content/themes/default/templates/admin.themes.tpl:40
+#: content/themes/default/templates/admin.users.tpl:55
+#: content/themes/default/templates/admin.verified.tpl:46
+#: content/themes/default/templates/admin.verified.tpl:103
+msgid "No"
+msgstr "Hayır"
+
+#: content/themes/default/templates/admin.languages.tpl:80
+#: content/themes/default/templates/admin.languages.tpl:178
+msgid "Make it the default language of the site"
+msgstr "Bu site için varsayılan dili yapmak"
+
+#: content/themes/default/templates/admin.languages.tpl:94
+#: content/themes/default/templates/admin.languages.tpl:192
+msgid "Make it enbaled so the user can translate the site to it"
+msgstr "Böylece kullanıcı siteye tercüme enbaled olun"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:203
+msgid "Language country_code"
+msgstr "Dil country_code"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "For Example:"
+msgstr "Örneğin:"
+
+#: content/themes/default/templates/admin.languages.tpl:105
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:203
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "Click Here"
+msgstr "Buraya Tıklayın"
+
+#: content/themes/default/templates/admin.languages.tpl:111
+#: content/themes/default/templates/admin.languages.tpl:209
+msgid "Native Name"
+msgstr "Yerel adı"
+
+#: content/themes/default/templates/admin.languages.tpl:116
+#: content/themes/default/templates/admin.languages.tpl:214
+msgid "The native name of this language"
+msgstr "Bu dilin yerel adını"
+
+#: content/themes/default/templates/admin.languages.tpl:122
+#: content/themes/default/templates/admin.languages.tpl:220
+msgid "Flag Code"
+msgstr "Bayrak kodu"
+
+#: content/themes/default/templates/admin.languages.tpl:127
+#: content/themes/default/templates/admin.languages.tpl:225
+msgid "The country flag code"
+msgstr "Ülke bayrak kodu"
+
+#: content/themes/default/templates/admin.languages.tpl:133
+#: content/themes/default/templates/admin.languages.tpl:231
+msgid "Direction"
+msgstr "Yön"
+
+#: content/themes/default/templates/admin.languages.tpl:141
+#: content/themes/default/templates/admin.languages.tpl:239
+msgid "The direction of this language 'Left To Right' or 'Right To Left'"
+msgstr "Bu dil 'Sol-sağ' veya 'Sağ-sol' yönünü"
+
+#: content/themes/default/templates/admin.languages.tpl:165
+msgid "Before add a new language you need to know 'gettext'"
+msgstr "Daha önce 'gettext' bilmeniz gereken yeni bir dil eklemek"
+
+#: content/themes/default/templates/admin.pages.tpl:6
+msgid "Go to this page"
+msgstr "Bu sayfaya gitmek"
+
+#: content/themes/default/templates/admin.pages.tpl:24
+#: content/themes/default/templates/admin.pages.tpl:88
+#: content/themes/default/templates/admin.verified.tpl:71
+#: content/themes/default/templates/ajax.popover.tpl:111
+#: content/themes/default/templates/profile.tpl:138
+#: content/themes/default/templates/profile.tpl:389
+#: content/themes/default/templates/profile.tpl:650
+#: content/themes/default/templates/__feeds_page.tpl:24
+msgid "Likes"
+msgstr "Beğeni"
+
+#: content/themes/default/templates/admin.pages.tpl:84
+msgid "Page ID"
+msgstr "Sayfa ID"
+
+#: content/themes/default/templates/admin.pages.tpl:97
+msgid "Page Info"
+msgstr "Sayfa Bilgisi"
+
+#: content/themes/default/templates/admin.pages.tpl:110
+msgid "Verified Page"
+msgstr "Doğrulanmış sayfa"
+
+#: content/themes/default/templates/admin.pages.tpl:122
+#: content/themes/default/templates/index.tpl:449
+#: content/themes/default/templates/page.tpl:198
+msgid "Category"
+msgstr "Kategori"
+
+#: content/themes/default/templates/admin.reports.tpl:12
+msgid "Reporter Picture"
+msgstr "Muhabir resim"
+
+#: content/themes/default/templates/admin.reports.tpl:13
+msgid "Reporter Name"
+msgstr "Gazeteci adı"
+
+#: content/themes/default/templates/admin.reports.tpl:14
+msgid "Node"
+msgstr "Düğüm"
+
+#: content/themes/default/templates/admin.reports.tpl:15
+msgid "Time"
+msgstr "Zaman"
+
+#: content/themes/default/templates/admin.settings.tpl:10
+msgid "System Version"
+msgstr "Sistemi sürümü"
+
+#: content/themes/default/templates/admin.settings.tpl:23
+msgid "Website Live"
+msgstr "Web sitesi canlı"
+
+#: content/themes/default/templates/admin.settings.tpl:31
+msgid "Turn the entire website On and Off"
+msgstr "Tüm Web sitesi açma kapama"
+
+#: content/themes/default/templates/admin.settings.tpl:38
+msgid "Shutdown Message"
+msgstr "Kapatma iletisi"
+
+#: content/themes/default/templates/admin.settings.tpl:43
+msgid "The text that is presented when the site is closed"
+msgstr "Site kapalı olduğunda görüntülenen metin"
+
+#: content/themes/default/templates/admin.settings.tpl:52
+msgid "Website Title"
+msgstr "Website Başlığı"
+
+#: content/themes/default/templates/admin.settings.tpl:57
+msgid "Title of your website"
+msgstr "Başlık, Web sitenizin"
+
+#: content/themes/default/templates/admin.settings.tpl:64
+msgid "Website Description"
+msgstr "Website Açıklaması"
+
+#: content/themes/default/templates/admin.settings.tpl:69
+msgid "Description of your website"
+msgstr "Web sitesi açıklaması"
+
+#: content/themes/default/templates/admin.settings.tpl:76
+msgid "Website Domain"
+msgstr "Web sitesi etki alanı"
+
+#: content/themes/default/templates/admin.settings.tpl:81
+msgid "Like: sngine.com (without 'www')"
+msgstr "Gibi: sngine.com (olmadan 'www')"
+
+#: content/themes/default/templates/admin.settings.tpl:88
+msgid "Website Path"
+msgstr "Web sitesi yolu"
+
+#: content/themes/default/templates/admin.settings.tpl:93
+msgid "The path of your system"
+msgstr "Sisteminizin yol"
+
+#: content/themes/default/templates/admin.settings.tpl:100
+msgid "Uploads Directory"
+msgstr "Yükleme dizini"
+
+#: content/themes/default/templates/admin.settings.tpl:105
+msgid "The path of uploads directory"
+msgstr "Uploads dizininin yolu"
+
+#: content/themes/default/templates/admin.settings.tpl:114
+msgid "Registration Enabled"
+msgstr "Etkin kayıt"
+
+#: content/themes/default/templates/admin.settings.tpl:122
+msgid "Turn registration On and Off"
+msgstr "Kayıt açar ve kapatır"
+
+#: content/themes/default/templates/admin.settings.tpl:129
+msgid "Send Activation Email"
+msgstr "Etkinleştirme e-posta göndermek"
+
+#: content/themes/default/templates/admin.settings.tpl:137
+msgid "Enable/Disable activation email after registration"
+msgstr ""
+"Olanaklı kılmak/sakatlar harekete geçirmek e-posta kayıt olduktan sonra"
+
+#: content/themes/default/templates/admin.settings.tpl:146
+msgid "Social Logins"
+msgstr "Sosyal oturumları"
+
+#: content/themes/default/templates/admin.settings.tpl:154
+msgid ""
+"Turn registration/login via social media (Facebook, Twitter and etc) On and "
+"Off"
+msgstr ""
+"Kayıt/giriş yolu ile sosyal medya (Facebook, Twitter ve vb) açar ve kapatır"
+
+#: content/themes/default/templates/admin.settings.tpl:162
+msgid "Facebook Login"
+msgstr "Facebook Giriş"
+
+#: content/themes/default/templates/admin.settings.tpl:170
+msgid "Turn registration/login via Facebook On and Off"
+msgstr "Kayıt/Giriş Facebook doğum via ve açmak"
+
+#: content/themes/default/templates/admin.settings.tpl:177
+msgid "Facebook App ID"
+msgstr "Facebook Uygulaması Kimliği (App ID)"
+
+#: content/themes/default/templates/admin.settings.tpl:186
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: content/themes/default/templates/admin.settings.tpl:197
+msgid "Twitter Login"
+msgstr "Twitter ile Giriş"
+
+#: content/themes/default/templates/admin.settings.tpl:205
+msgid "Turn registration/login via Twitter On and Off"
+msgstr "Kayıt/giriş Twitter doğum via ve açmak"
+
+#: content/themes/default/templates/admin.settings.tpl:212
+msgid "Twitter App ID"
+msgstr "Twitter App ID"
+
+#: content/themes/default/templates/admin.settings.tpl:221
+msgid "Twitter App Secret"
+msgstr "Twitter secret"
+
+#: content/themes/default/templates/admin.settings.tpl:232
+msgid "Google Login"
+msgstr "Google Giriş"
+
+#: content/themes/default/templates/admin.settings.tpl:240
+msgid "Turn registration/login via Google On and Off"
+msgstr "Kayıt/giriş yolu ile Google üstünde ve uzakta açmak"
+
+#: content/themes/default/templates/admin.settings.tpl:247
+msgid "Google App ID"
+msgstr "Google App kimliği"
+
+#: content/themes/default/templates/admin.settings.tpl:256
+msgid "Google App Secret"
+msgstr "Google App gizli"
+
+#: content/themes/default/templates/admin.settings.tpl:268
+msgid "SMTP Emails"
+msgstr "SMTP e-posta"
+
+#: content/themes/default/templates/admin.settings.tpl:276
+#: content/themes/default/templates/admin.settings.tpl:301
+msgid "Enable/Disable SMTP email system"
+msgstr "Olanaklı kılmak/sakatlar SMTP e-posta sistemi"
+
+#: content/themes/default/templates/admin.settings.tpl:277
+#: content/themes/default/templates/admin.settings.tpl:302
+msgid "PHP mail() function will be used in case of disabled"
+msgstr "PHP mail() işlevi devre dışı durumunda kullanılacak"
+
+#: content/themes/default/templates/admin.settings.tpl:284
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+#: content/themes/default/templates/admin.settings.tpl:293
+msgid "SMTP Require Authentication"
+msgstr "Kimlik doğrulaması gerektir"
+
+#: content/themes/default/templates/admin.settings.tpl:309
+msgid "SMTP Port"
+msgstr "SMTP Bağlantı Noktası"
+
+#: content/themes/default/templates/admin.settings.tpl:318
+msgid "SMTP Username"
+msgstr "SMTP Kullanıcı adı"
+
+#: content/themes/default/templates/admin.settings.tpl:327
+msgid "SMTP Password"
+msgstr "SMTP Şifresi"
+
+#: content/themes/default/templates/admin.settings.tpl:338
+msgid "reCAPTCHA Enabled"
+msgstr "reCAPTCHA etkin"
+
+#: content/themes/default/templates/admin.settings.tpl:346
+msgid "Turn reCAPTCHA On and Off"
+msgstr "ReCAPTCHA açar ve kapatır"
+
+#: content/themes/default/templates/admin.settings.tpl:353
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Anahtarı (Public)"
+
+#: content/themes/default/templates/admin.settings.tpl:362
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Gizli Anahtarı (Secret)"
+
+#: content/themes/default/templates/admin.settings.tpl:373
+msgid "Minimum Results"
+msgstr "En az sonuçları"
+
+#: content/themes/default/templates/admin.settings.tpl:378
+msgid "The Min number of results per request"
+msgstr "Sonuç istek başına Min sayısı"
+
+#: content/themes/default/templates/admin.settings.tpl:385
+msgid "Minimum Even Results"
+msgstr "En az bile sonuçları"
+
+#: content/themes/default/templates/admin.settings.tpl:390
+msgid "The Min even number of results per request"
+msgstr "Sonuçlar istek başına Min çift sayıda"
+
+#: content/themes/default/templates/admin.settings.tpl:397
+msgid "Maximum Results"
+msgstr "Maksimum sonuçlar"
+
+#: content/themes/default/templates/admin.settings.tpl:402
+msgid "The Max number of results per request"
+msgstr "Sonuçlar istek başına en fazla sayısı"
+
+#: content/themes/default/templates/admin.settings.tpl:411
+msgid "Games Enabled"
+msgstr "Etkin Oyunlar"
+
+#: content/themes/default/templates/admin.settings.tpl:419
+msgid "Turn the games On and Off"
+msgstr "Oyunları açar ve kapatır"
+
+#: content/themes/default/templates/admin.static.tpl:6
+msgid "Add New Page"
+msgstr "Yeni Sayfa Ekle"
+
+#: content/themes/default/templates/admin.static.tpl:22
+msgid "Page URL"
+msgstr "Sayfa URL` si"
+
+#: content/themes/default/templates/admin.static.tpl:23
+msgid "Page Title"
+msgstr "Sayfa Başlığı"
+
+#: content/themes/default/templates/admin.themes.tpl:6
+msgid "Add New Theme"
+msgstr "Yeni Konu Ekle"
+
+#: content/themes/default/templates/admin.themes.tpl:70
+#: content/themes/default/templates/admin.themes.tpl:111
+msgid "Make it the default theme of the site"
+msgstr "Sitenin varsayılan tema yapmak"
+
+#: content/themes/default/templates/admin.tpl:17
+msgid "Dashboard"
+msgstr "Yönetim Paneli"
+
+#: content/themes/default/templates/admin.tpl:39
+#: content/themes/default/templates/admin.tpl:60
+#: content/themes/default/templates/admin.tpl:125
+#: content/themes/default/templates/admin.tpl:183
+#: content/themes/default/templates/admin.tpl:204
+#: content/themes/default/templates/admin.tpl:225
+#: content/themes/default/templates/admin.tpl:246
+msgid "Lists"
+msgstr "Listeler"
+
+#: content/themes/default/templates/admin.tpl:81
+msgid "Show All Users"
+msgstr "Tüm kullanıcıları göster"
+
+#: content/themes/default/templates/admin.tpl:86
+msgid "List Admins"
+msgstr "Liste yöneticileri"
+
+#: content/themes/default/templates/admin.tpl:91
+msgid "List Moderators"
+msgstr "Liste Moderatörler"
+
+#: content/themes/default/templates/admin.tpl:96
+msgid "List Online"
+msgstr "Online listesi"
+
+#: content/themes/default/templates/admin.tpl:101
+msgid "List Banned"
+msgstr "Yasaklı listesi"
+
+#: content/themes/default/templates/admin.tpl:119
+msgid "Pages Categories"
+msgstr "Sayfalar Kategoriler"
+
+#: content/themes/default/templates/admin.tpl:148
+msgid "Verify Badge"
+msgstr "Rozet doğrulayın"
+
+#: content/themes/default/templates/admin.tpl:154
+msgid "List Users"
+msgstr "Hesapları Listele"
+
+#: content/themes/default/templates/admin.tpl:159
+msgid "List Pages"
+msgstr "Liste sayfaları"
+
+#: content/themes/default/templates/admin.tpl:240
+msgid "games"
+msgstr "Oyunlar."
+
+#: content/themes/default/templates/admin.tpl:261
+msgid "Newsletter"
+msgstr "Indirimler"
+
+#: content/themes/default/templates/admin.users.tpl:6
+msgid "Go to this profile"
+msgstr "Bu profil git"
+
+#: content/themes/default/templates/admin.users.tpl:25
+#: content/themes/default/templates/admin.users.tpl:218
+#: content/themes/default/templates/admin.verified.tpl:16
+msgid "IP"
+msgstr "IP"
+
+#: content/themes/default/templates/admin.users.tpl:26
+#: content/themes/default/templates/admin.users.tpl:84
+#: content/themes/default/templates/admin.verified.tpl:17
+#: content/themes/default/templates/group.tpl:59
+#: content/themes/default/templates/group.tpl:105
+#: content/themes/default/templates/_js_translator.tpl:12
+#: content/themes/default/templates/__feeds_group.tpl:11
+msgid "Joined"
+msgstr "Kayıt"
+
+#: content/themes/default/templates/admin.users.tpl:27
+#: content/themes/default/templates/admin.verified.tpl:18
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Activated"
+msgstr "Etkinleştirildi"
+
+#: content/themes/default/templates/admin.users.tpl:80
+msgid "User ID"
+msgstr "Kullanıcı Kimliği"
+
+#: content/themes/default/templates/admin.users.tpl:88
+msgid "Last Login"
+msgstr "Son Login"
+
+#: content/themes/default/templates/admin.users.tpl:96
+#: content/themes/default/templates/admin.users.tpl:502
+#: content/themes/default/templates/admin.users.tpl:517
+#: content/themes/default/templates/admin.users.tpl:532
+#: content/themes/default/templates/admin.users.tpl:547
+#: content/themes/default/templates/admin.users.tpl:562
+#: content/themes/default/templates/admin.users.tpl:580
+#: content/themes/default/templates/admin.users.tpl:598
+#: content/themes/default/templates/ajax.popover.tpl:57
+#: content/themes/default/templates/profile.tpl:63
+#: content/themes/default/templates/profile.tpl:120
+#: content/themes/default/templates/profile.tpl:135
+#: content/themes/default/templates/profile.tpl:213
+#: content/themes/default/templates/profile.tpl:360
+#: content/themes/default/templates/profile.tpl:460
+#: content/themes/default/templates/profile.tpl:468
+#: content/themes/default/templates/profile.tpl:531
+#: content/themes/default/templates/profile.tpl:538
+#: content/themes/default/templates/profile.tpl:596
+#: content/themes/default/templates/profile.tpl:603
+#: content/themes/default/templates/settings.tpl:353
+#: content/themes/default/templates/settings.tpl:368
+#: content/themes/default/templates/settings.tpl:383
+#: content/themes/default/templates/settings.tpl:398
+#: content/themes/default/templates/settings.tpl:413
+#: content/themes/default/templates/settings.tpl:431
+#: content/themes/default/templates/settings.tpl:449
+#: content/themes/default/templates/_js_translator.tpl:2
+#: content/themes/default/templates/_publisher.tpl:65
+#: content/themes/default/templates/_publisher.tpl:69
+#: content/themes/default/templates/__feeds_user.tpl:24
+msgid "Friends"
+msgstr "Arkadaşlar"
+
+#: content/themes/default/templates/admin.users.tpl:100
+#: content/themes/default/templates/profile.tpl:476
+#: content/themes/default/templates/profile.tpl:547
+#: content/themes/default/templates/profile.tpl:610
+msgid "Followings"
+msgstr "Aşağıdakilerden"
+
+#: content/themes/default/templates/admin.users.tpl:104
+#: content/themes/default/templates/profile.tpl:473
+#: content/themes/default/templates/profile.tpl:542
+#: content/themes/default/templates/profile.tpl:606
+msgid "Followers"
+msgstr "Takipçiler"
+
+#: content/themes/default/templates/admin.users.tpl:113
+msgid "Basic Info"
+msgstr "Temel bilgi"
+
+#: content/themes/default/templates/admin.users.tpl:118
+#: content/themes/default/templates/_header.tpl:120
+msgid "Profile"
+msgstr "Profilim"
+
+#: content/themes/default/templates/admin.users.tpl:128
+#: content/themes/default/templates/reset.tpl:14
+#: content/themes/default/templates/settings.tpl:53
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:47
+#: content/themes/default/templates/signup_social.tpl:24
+msgid "Email"
+msgstr "Email"
+
+#: content/themes/default/templates/admin.users.tpl:133
+#: content/themes/default/templates/admin.users.tpl:450
+#: content/themes/default/templates/settings.tpl:58
+#: content/themes/default/templates/signin.tpl:47
+#: content/themes/default/templates/signup.tpl:51
+#: content/themes/default/templates/signup_social.tpl:28
+msgid "Password"
+msgstr "Şifre"
+
+#: content/themes/default/templates/admin.users.tpl:138
+msgid "Privacy"
+msgstr "Gizlilik"
+
+#: content/themes/default/templates/admin.users.tpl:151
+msgid "Verified User"
+msgstr "Doğrulanan kullanıcı"
+
+#: content/themes/default/templates/admin.users.tpl:175
+msgid "Email Activated"
+msgstr "Etkin e-posta"
+
+#: content/themes/default/templates/admin.users.tpl:187
+msgid "Password Rested"
+msgstr "Dinlenmiş şifre"
+
+#: content/themes/default/templates/admin.users.tpl:199
+msgid "User Group"
+msgstr "Kullanıcı Grubu"
+
+#: content/themes/default/templates/admin.users.tpl:247
+#: content/themes/default/templates/settings.tpl:175
+msgid "Full Name"
+msgstr "Tam Adı"
+
+#: content/themes/default/templates/admin.users.tpl:255
+msgid "Gender"
+msgstr "Cinsiyet"
+
+#: content/themes/default/templates/admin.users.tpl:259
+#: content/themes/default/templates/index.tpl:87
+#: content/themes/default/templates/settings.tpl:181
+#: content/themes/default/templates/signup.tpl:57
+#: content/themes/default/templates/signup_social.tpl:34
+msgid "Select Sex"
+msgstr "Seks seçin"
+
+#: content/themes/default/templates/admin.users.tpl:261
+#: content/themes/default/templates/index.tpl:88
+#: content/themes/default/templates/profile.tpl:324
+#: content/themes/default/templates/settings.tpl:182
+#: content/themes/default/templates/signup.tpl:58
+#: content/themes/default/templates/signup_social.tpl:35
+msgid "Male"
+msgstr "Erkek"
+
+#: content/themes/default/templates/admin.users.tpl:264
+#: content/themes/default/templates/index.tpl:89
+#: content/themes/default/templates/profile.tpl:327
+#: content/themes/default/templates/settings.tpl:183
+#: content/themes/default/templates/signup.tpl:59
+#: content/themes/default/templates/signup_social.tpl:36
+msgid "Female"
+msgstr "Kadın"
+
+#: content/themes/default/templates/admin.users.tpl:271
+#: content/themes/default/templates/settings.tpl:187
+msgid "Birthdate"
+msgstr "Dogum Günü"
+
+#: content/themes/default/templates/admin.users.tpl:277
+#: content/themes/default/templates/settings.tpl:191
+msgid "Select Month"
+msgstr "Ay Seçin"
+
+#: content/themes/default/templates/admin.users.tpl:278
+#: content/themes/default/templates/settings.tpl:192
+msgid "Jan"
+msgstr "Oca"
+
+#: content/themes/default/templates/admin.users.tpl:279
+#: content/themes/default/templates/settings.tpl:193
+msgid "Feb"
+msgstr "Şub"
+
+#: content/themes/default/templates/admin.users.tpl:280
+#: content/themes/default/templates/settings.tpl:194
+msgid "Mar"
+msgstr "Mart"
+
+#: content/themes/default/templates/admin.users.tpl:281
+#: content/themes/default/templates/settings.tpl:195
+msgid "Apr"
+msgstr "Nis"
+
+#: content/themes/default/templates/admin.users.tpl:282
+#: content/themes/default/templates/settings.tpl:196
+msgid "May"
+msgstr "Mayıs"
+
+#: content/themes/default/templates/admin.users.tpl:283
+#: content/themes/default/templates/settings.tpl:197
+msgid "Jun"
+msgstr "Haz"
+
+#: content/themes/default/templates/admin.users.tpl:284
+#: content/themes/default/templates/settings.tpl:198
+msgid "Jul"
+msgstr "Tem"
+
+#: content/themes/default/templates/admin.users.tpl:285
+#: content/themes/default/templates/settings.tpl:199
+msgid "Aug"
+msgstr "Ağu"
+
+#: content/themes/default/templates/admin.users.tpl:286
+#: content/themes/default/templates/settings.tpl:200
+msgid "Sep"
+msgstr "Eyl"
+
+#: content/themes/default/templates/admin.users.tpl:287
+#: content/themes/default/templates/settings.tpl:201
+msgid "Oct"
+msgstr "Eki"
+
+#: content/themes/default/templates/admin.users.tpl:288
+#: content/themes/default/templates/settings.tpl:202
+msgid "Nov"
+msgstr "Kas"
+
+#: content/themes/default/templates/admin.users.tpl:289
+#: content/themes/default/templates/settings.tpl:203
+msgid "Dec"
+msgstr "Ar"
+
+#: content/themes/default/templates/admin.users.tpl:294
+#: content/themes/default/templates/settings.tpl:208
+msgid "Select Day"
+msgstr "Gününü seçin"
+
+#: content/themes/default/templates/admin.users.tpl:302
+#: content/themes/default/templates/settings.tpl:216
+msgid "Select Year"
+msgstr "Yıl seçin"
+
+#: content/themes/default/templates/admin.users.tpl:314
+#: content/themes/default/templates/settings.tpl:242
+msgid "Work Title"
+msgstr "İş başlığı"
+
+#: content/themes/default/templates/admin.users.tpl:322
+#: content/themes/default/templates/settings.tpl:246
+msgid "Work Place"
+msgstr "İş yerinde"
+
+#: content/themes/default/templates/admin.users.tpl:331
+#: content/themes/default/templates/settings.tpl:268
+msgid "Current City"
+msgstr "Mevcut şehir"
+
+#: content/themes/default/templates/admin.users.tpl:339
+#: content/themes/default/templates/settings.tpl:272
+msgid "Hometown"
+msgstr "Memleketi"
+
+#: content/themes/default/templates/admin.users.tpl:348
+#: content/themes/default/templates/settings.tpl:294
+msgid "Major"
+msgstr "Binbaşı"
+
+#: content/themes/default/templates/admin.users.tpl:356
+#: content/themes/default/templates/settings.tpl:298
+msgid "School"
+msgstr "Okul"
+
+#: content/themes/default/templates/admin.users.tpl:364
+#: content/themes/default/templates/settings.tpl:302
+msgid "Class"
+msgstr "Sınıf"
+
+#: content/themes/default/templates/admin.users.tpl:421
+#: content/themes/default/templates/settings.tpl:90
+msgid "Email address"
+msgstr "E-posta adresi"
+
+#: content/themes/default/templates/admin.users.tpl:479
+#: content/themes/default/templates/ajax.chat.master.head.tpl:12
+#: content/themes/default/templates/settings.tpl:330
+#: content/themes/default/templates/_js_templates.tpl:392
+msgid "Chat"
+msgstr "Sohbet"
+
+#: content/themes/default/templates/admin.users.tpl:484
+#: content/themes/default/templates/ajax.chat.master.head.tpl:5
+#: content/themes/default/templates/settings.tpl:335
+#: content/themes/default/templates/_js_templates.tpl:402
+msgid "Offline"
+msgstr "Yayında Değil"
+
+#: content/themes/default/templates/admin.users.tpl:494
+#: content/themes/default/templates/admin.users.tpl:509
+#: content/themes/default/templates/admin.users.tpl:524
+#: content/themes/default/templates/admin.users.tpl:539
+#: content/themes/default/templates/admin.users.tpl:554
+#: content/themes/default/templates/admin.users.tpl:572
+#: content/themes/default/templates/admin.users.tpl:590
+#: content/themes/default/templates/settings.tpl:345
+#: content/themes/default/templates/settings.tpl:360
+#: content/themes/default/templates/settings.tpl:375
+#: content/themes/default/templates/settings.tpl:390
+#: content/themes/default/templates/settings.tpl:405
+#: content/themes/default/templates/settings.tpl:423
+#: content/themes/default/templates/settings.tpl:441
+msgid "Who can see your"
+msgstr "Kim-ebilmek görmek senin"
+
+#: content/themes/default/templates/admin.users.tpl:494
+#: content/themes/default/templates/settings.tpl:345
+msgid "birthdate"
+msgstr "Doğum günü:"
+
+#: content/themes/default/templates/admin.users.tpl:499
+#: content/themes/default/templates/admin.users.tpl:514
+#: content/themes/default/templates/admin.users.tpl:529
+#: content/themes/default/templates/admin.users.tpl:544
+#: content/themes/default/templates/admin.users.tpl:559
+#: content/themes/default/templates/admin.users.tpl:577
+#: content/themes/default/templates/admin.users.tpl:595
+#: content/themes/default/templates/settings.tpl:350
+#: content/themes/default/templates/settings.tpl:365
+#: content/themes/default/templates/settings.tpl:380
+#: content/themes/default/templates/settings.tpl:395
+#: content/themes/default/templates/settings.tpl:410
+#: content/themes/default/templates/settings.tpl:428
+#: content/themes/default/templates/settings.tpl:446
+msgid "Everyone"
+msgstr "Herkes"
+
+#: content/themes/default/templates/admin.users.tpl:509
+#: content/themes/default/templates/settings.tpl:360
+msgid "work info"
+msgstr "iş bilgisi"
+
+#: content/themes/default/templates/admin.users.tpl:524
+#: content/themes/default/templates/settings.tpl:375
+msgid "location info"
+msgstr "konum bilgisi"
+
+#: content/themes/default/templates/admin.users.tpl:539
+#: content/themes/default/templates/settings.tpl:390
+msgid "education info"
+msgstr "eğitim bilgileri"
+
+#: content/themes/default/templates/admin.users.tpl:554
+#: content/themes/default/templates/settings.tpl:405
+msgid "friends"
+msgstr "arkadaşlar"
+
+#: content/themes/default/templates/admin.users.tpl:565
+#: content/themes/default/templates/admin.users.tpl:583
+#: content/themes/default/templates/admin.users.tpl:601
+#: content/themes/default/templates/settings.tpl:416
+#: content/themes/default/templates/settings.tpl:434
+#: content/themes/default/templates/settings.tpl:452
+msgid "Just Me"
+msgstr "Sadece Ben"
+
+#: content/themes/default/templates/admin.users.tpl:572
+#: content/themes/default/templates/settings.tpl:423
+msgid "liked pages"
+msgstr "sayfaları sevdim"
+
+#: content/themes/default/templates/admin.users.tpl:590
+#: content/themes/default/templates/settings.tpl:441
+msgid "joined groups"
+msgstr "birleştirilmiş grupların"
+
+#: content/themes/default/templates/admin.widgets.tpl:6
+msgid "Add New widget"
+msgstr "Yeni Bileşen Alanı Ekle"
+
+#: content/themes/default/templates/admin.widgets.tpl:107
+msgid ""
+"When you add mutiple widgets at the samle location, they will be displayed "
+"randomly"
+msgstr ""
+"Samle konumda birden fazla widget eklediğinizde, rastgele görüntülenir"
+
+#: content/themes/default/templates/ajax.chat.conversation.messages.tpl:4
+msgid "Loading Older Messages"
+msgstr "Büyük iletileri yükleme"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:7
+#: content/themes/default/templates/messages.tpl:48
+#: content/themes/default/templates/messages.tpl:55
+#: content/themes/default/templates/_js_templates.tpl:413
+msgid "New Message"
+msgstr "Yeni Mesaj"
+
+#: content/themes/default/templates/ajax.chat.conversation.tpl:11
+#: content/themes/default/templates/_js_translator.tpl:14
+msgid "Delete"
+msgstr "Sil"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:4
+#: content/themes/default/templates/ajax.popover.tpl:118
+#: content/themes/default/templates/page.tpl:62
+#: content/themes/default/templates/page.tpl:103
+#: content/themes/default/templates/_js_translator.tpl:11
+#: content/themes/default/templates/__feeds_page.tpl:11
+#: content/themes/default/templates/__feeds_post.comment.tpl:55
+#: content/themes/default/templates/__feeds_post.tpl:268
+msgid "Unlike"
+msgstr "Beğenme"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:6
+#: content/themes/default/templates/ajax.popover.tpl:123
+#: content/themes/default/templates/page.tpl:67
+#: content/themes/default/templates/page.tpl:108
+#: content/themes/default/templates/_js_translator.tpl:10
+#: content/themes/default/templates/__feeds_page.tpl:16
+#: content/themes/default/templates/__feeds_post.comment.tpl:57
+#: content/themes/default/templates/__feeds_post.tpl:270
+msgid "Like"
+msgstr "Beğen"
+
+#: content/themes/default/templates/ajax.lightbox_actions.tpl:8
+#: content/themes/default/templates/__feeds_post.tpl:272
+msgid "Comment"
+msgstr "Mesajınız"
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/profile.tpl:347
+#: content/themes/default/templates/__feeds_post.tpl:307
+msgid "people"
+msgstr "kişiler"
+
+#: content/themes/default/templates/ajax.lightbox_footer.tpl:7
+#: content/themes/default/templates/__feeds_post.tpl:307
+msgid "like this"
+msgstr "Bunu Beğendiniz mi?"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:3
+#: content/themes/default/templates/profile.tpl:196
+msgid "Mutual Friends"
+msgstr "Ortak arkadaşlarımız"
+
+#: content/themes/default/templates/ajax.mutual_friends.tpl:15
+#: content/themes/default/templates/ajax.who_likes.tpl:15
+#: content/themes/default/templates/ajax.who_shares.tpl:15
+#: content/themes/default/templates/friend_requests.tpl:37
+#: content/themes/default/templates/friend_requests.tpl:68
+#: content/themes/default/templates/friend_requests.tpl:102
+#: content/themes/default/templates/group.tpl:194
+#: content/themes/default/templates/index.tpl:387
+#: content/themes/default/templates/index.tpl:427
+#: content/themes/default/templates/index.tpl:540
+#: content/themes/default/templates/notifications.tpl:27
+#: content/themes/default/templates/profile.tpl:493
+#: content/themes/default/templates/profile.tpl:563
+#: content/themes/default/templates/profile.tpl:628
+#: content/themes/default/templates/profile.tpl:665
+#: content/themes/default/templates/profile.tpl:709
+#: content/themes/default/templates/settings.tpl:599
+#: includes/functions.php:556
+msgid "See More"
+msgstr "Daha fazla gör"
+
+#: content/themes/default/templates/ajax.popover.tpl:19
+msgid "followers"
+msgstr "takipçiler"
+
+#: content/themes/default/templates/ajax.popover.tpl:28
+#: content/themes/default/templates/profile.tpl:364
+#: content/themes/default/templates/__feeds_user.tpl:52
+msgid "mutual friends"
+msgstr "ortak arkadaşlarımız"
+
+#: content/themes/default/templates/ajax.popover.tpl:37
+#: content/themes/default/templates/profile.tpl:277
+#: content/themes/default/templates/profile.tpl:289
+msgid "at"
+msgstr "saat"
+
+#: content/themes/default/templates/ajax.popover.tpl:47
+#: content/themes/default/templates/profile.tpl:314
+msgid "From"
+msgstr "Kimden"
+
+#: content/themes/default/templates/ajax.popover.tpl:60
+#: content/themes/default/templates/profile.tpl:66
+#: content/themes/default/templates/profile.tpl:169
+#: content/themes/default/templates/profile.tpl:216
+#: content/themes/default/templates/_js_templates.tpl:64
+#: content/themes/default/templates/__feeds_user.tpl:9
+msgid "Confirm"
+msgstr "Onayla"
+
+#: content/themes/default/templates/ajax.popover.tpl:61
+#: content/themes/default/templates/profile.tpl:67
+#: content/themes/default/templates/profile.tpl:170
+#: content/themes/default/templates/profile.tpl:217
+#: content/themes/default/templates/__feeds_user.tpl:10
+msgid "Delete Request"
+msgstr "Silme isteği"
+
+#: content/themes/default/templates/ajax.popover.tpl:64
+#: content/themes/default/templates/profile.tpl:70
+#: content/themes/default/templates/profile.tpl:173
+#: content/themes/default/templates/profile.tpl:220
+#: content/themes/default/templates/_js_translator.tpl:3
+#: content/themes/default/templates/__feeds_user.tpl:19
+msgid "Friend Request Sent"
+msgstr "Arkadaş isteği"
+
+#: content/themes/default/templates/ajax.popover.tpl:68
+#: content/themes/default/templates/profile.tpl:74
+#: content/themes/default/templates/profile.tpl:177
+#: content/themes/default/templates/profile.tpl:224
+#: content/themes/default/templates/_js_translator.tpl:1
+#: content/themes/default/templates/__feeds_user.tpl:14
+msgid "Add Friend"
+msgstr "Arkadaş ekle"
+
+#: content/themes/default/templates/ajax.popover.tpl:76
+#: content/themes/default/templates/profile.tpl:82
+#: content/themes/default/templates/profile.tpl:232
+#: content/themes/default/templates/_js_translator.tpl:4
+#: content/themes/default/templates/__feeds_user.tpl:36
+msgid "Following"
+msgstr "Takip ediliyor"
+
+#: content/themes/default/templates/ajax.popover.tpl:81
+#: content/themes/default/templates/profile.tpl:87
+#: content/themes/default/templates/profile.tpl:237
+#: content/themes/default/templates/_js_translator.tpl:5
+#: content/themes/default/templates/__feeds_user.tpl:30
+msgid "Follow"
+msgstr "Takip"
+
+#: content/themes/default/templates/ajax.popover.tpl:84
+#: content/themes/default/templates/profile.tpl:90
+#: content/themes/default/templates/profile.tpl:240
+msgid "Message"
+msgstr "Mesaj"
+
+#: content/themes/default/templates/ajax.popover.tpl:88
+#: content/themes/default/templates/group.tpl:69
+#: content/themes/default/templates/group.tpl:115
+#: content/themes/default/templates/page.tpl:72
+#: content/themes/default/templates/page.tpl:113
+#: content/themes/default/templates/profile.tpl:103
+#: content/themes/default/templates/profile.tpl:253
+msgid "Update Info"
+msgstr "GÜNCELLEME BİLGİSİ"
+
+#: content/themes/default/templates/ajax.who_likes.tpl:3
+msgid "People Who Like This"
+msgstr "Bunu beğenenler"
+
+#: content/themes/default/templates/ajax.who_shares.tpl:3
+msgid "People Who Shared This"
+msgstr "Bu ortak insanlar"
+
+#: content/themes/default/templates/friend_requests.tpl:15
+msgid "Respond to Your Friend Request"
+msgstr "Arkadaş isteğinize yanıt"
+
+#: content/themes/default/templates/friend_requests.tpl:18
+msgid "View Sent Requests"
+msgstr "Görünüm istekler gönderdi"
+
+#: content/themes/default/templates/friend_requests.tpl:30
+#: content/themes/default/templates/friend_requests.tpl:61
+#: content/themes/default/templates/_header.friend_requests.tpl:22
+msgid "No new requests"
+msgstr "Yeni isteği yok"
+
+#: content/themes/default/templates/friend_requests.tpl:46
+msgid "Friend Requests Sent"
+msgstr "Arkadaşlık istekleri"
+
+#: content/themes/default/templates/friend_requests.tpl:49
+msgid "View Received Requests"
+msgstr "Alınan isteklerini görüntüleme"
+
+#: content/themes/default/templates/friend_requests.tpl:82
+#: content/themes/default/templates/_header.friend_requests.tpl:28
+msgid "People You May Know"
+msgstr "Bildiğiniz insanlar"
+
+#: content/themes/default/templates/friend_requests.tpl:95
+#: content/themes/default/templates/_header.friend_requests.tpl:39
+msgid "No people available"
+msgstr "Hiçbir kişi mevcut"
+
+#: content/themes/default/templates/group.tpl:64
+#: content/themes/default/templates/group.tpl:110
+#: content/themes/default/templates/_js_translator.tpl:13
+#: content/themes/default/templates/__feeds_group.tpl:16
+msgid "Join Group"
+msgstr "Gruba Katıl"
+
+#: content/themes/default/templates/group.tpl:80
+#: content/themes/default/templates/page.tpl:83
+#: content/themes/default/templates/profile.tpl:115
+msgid "Timeline"
+msgstr "Zaman Tüneli"
+
+#: content/themes/default/templates/group.tpl:132
+msgid "members"
+msgstr "öğrenciler"
+
+#: content/themes/default/templates/group.tpl:201
+msgid "doesn't have members"
+msgstr "üye yok"
+
+#: content/themes/default/templates/group.tpl:215
+#: content/themes/default/templates/group.tpl:235
+msgid "Group Settings"
+msgstr "Grup Ayarları"
+
+#: content/themes/default/templates/group.tpl:229
+msgid "Delete Group"
+msgstr "Grubu Sil"
+
+#: content/themes/default/templates/group.tpl:254
+#: content/themes/default/templates/page.tpl:218
+msgid "Save"
+msgstr "Kaydet"
+
+#: content/themes/default/templates/index.tpl:14
+msgid "Share your memories, connect with others, make new friends"
+msgstr ""
+"Anılarınızı paylaşın, diğerleri ile bağlantı kurmak, yeni arkadaşlar bulun"
+
+#: content/themes/default/templates/index.tpl:29
+#: content/themes/default/templates/signin.tpl:52
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: content/themes/default/templates/index.tpl:31
+#: content/themes/default/templates/signin.tpl:63
+msgid "Forget your password?"
+msgstr "Şifremi Unuttum?"
+
+#: content/themes/default/templates/index.tpl:43
+#: content/themes/default/templates/signin.tpl:35
+#: content/themes/default/templates/signin.tpl:43
+#: content/themes/default/templates/signup.tpl:31
+msgid "or"
+msgstr "veya"
+
+#: content/themes/default/templates/index.tpl:43
+msgid "login with"
+msgstr "mantık ile"
+
+#: content/themes/default/templates/index.tpl:69
+msgid "New to"
+msgstr "İçin yeni"
+
+#: content/themes/default/templates/index.tpl:69
+#: content/themes/default/templates/signup.tpl:8
+msgid "Sign up"
+msgstr "Oturum Aç"
+
+#: content/themes/default/templates/index.tpl:85
+#: content/themes/default/templates/settings.tpl:179
+#: content/themes/default/templates/signup.tpl:55
+#: content/themes/default/templates/signup_social.tpl:32
+msgid "I am"
+msgstr "Ben"
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "By clicking Sign Up, you agree to our"
+msgstr "Kaydolmak tıklayarak, siz için katılıyorum bizim"
+
+#: content/themes/default/templates/index.tpl:101
+#: content/themes/default/templates/signup.tpl:71
+#: content/themes/default/templates/signup_social.tpl:40
+msgid "Terms"
+msgstr "Koşullar"
+
+#: content/themes/default/templates/index.tpl:153
+msgid "favorites"
+msgstr "Favorilerim"
+
+#: content/themes/default/templates/index.tpl:157
+msgid "News Feed"
+msgstr "Web sayfası bildirimcisi"
+
+#: content/themes/default/templates/index.tpl:171
+msgid "pages"
+msgstr "sayfalar"
+
+#: content/themes/default/templates/index.tpl:195
+msgid "groups"
+msgstr "gruplar"
+
+#: content/themes/default/templates/index.tpl:264
+#: content/themes/default/templates/_header.search.tpl:5
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: content/themes/default/templates/index.tpl:304
+#: content/themes/default/templates/index.tpl:318
+#: content/themes/default/templates/index.tpl:332
+#: content/themes/default/templates/index.tpl:346
+msgid "No results to show"
+msgstr "Göstermek için sonuç yok"
+
+#: content/themes/default/templates/index.tpl:367
+msgid "Your Pages"
+msgstr "Sayfalarınızı"
+
+#: content/themes/default/templates/index.tpl:380
+msgid "No pages available"
+msgstr "Sayfa yok"
+
+#: content/themes/default/templates/index.tpl:407
+msgid "Your Groups"
+msgstr "Gruplarınızı"
+
+#: content/themes/default/templates/index.tpl:420
+msgid "No groups available"
+msgstr "Grup yok"
+
+#: content/themes/default/templates/index.tpl:469
+#: content/themes/default/templates/index.tpl:504
+msgid "Create"
+msgstr "Yeni Oluştur"
+
+#: content/themes/default/templates/index.tpl:533
+msgid "No games available"
+msgstr "Oyun yok"
+
+#: content/themes/default/templates/index.tpl:564
+#: content/themes/default/templates/_header.friend_requests.tpl:45
+#: content/themes/default/templates/_header.messages.tpl:28
+#: content/themes/default/templates/_header.notifications.tpl:27
+msgid "See All"
+msgstr "Hepsini Gör"
+
+#: content/themes/default/templates/index.tpl:566
+msgid "People you may know"
+msgstr "Bildiğiniz insanlar"
+
+#: content/themes/default/templates/index.tpl:583
+msgid "Suggested Pages"
+msgstr "Önerilen sayfalar"
+
+#: content/themes/default/templates/index.tpl:600
+msgid "Suggested Groups"
+msgstr "Önerilen gruplar"
+
+#: content/themes/default/templates/messages.tpl:12
+msgid "Inbox"
+msgstr "Gelen Kutusu"
+
+#: content/themes/default/templates/messages.tpl:26
+msgid "Load Older Threads"
+msgstr "Büyük konu yük"
+
+#: content/themes/default/templates/messages.tpl:51
+msgid "No Selection"
+msgstr "Seçim yok"
+
+#: content/themes/default/templates/messages.tpl:54
+msgid "No Conversation Selected"
+msgstr "Seçili hiçbir konuşma"
+
+#: content/themes/default/templates/notifications.tpl:14
+msgid "Your Notifications"
+msgstr "Bildirimleriniz"
+
+#: content/themes/default/templates/page.tpl:130
+msgid "people like this"
+msgstr "Bu gibi insanlar"
+
+#: content/themes/default/templates/page.tpl:171
+#: content/themes/default/templates/page.tpl:191
+msgid "Page Settings"
+msgstr "Sayfa Ayarları"
+
+#: content/themes/default/templates/page.tpl:185
+msgid "Delete Page"
+msgstr "Sayfa Sil"
+
+#: content/themes/default/templates/profile.tpl:96
+#: content/themes/default/templates/profile.tpl:246
+msgid "Report"
+msgstr "Şikayet"
+
+#: content/themes/default/templates/profile.tpl:97
+#: content/themes/default/templates/profile.tpl:247
+msgid "Block"
+msgstr "Blok"
+
+#: content/themes/default/templates/profile.tpl:123
+msgid "Mutual"
+msgstr "karşılıklı"
+
+#: content/themes/default/templates/profile.tpl:130
+msgid "More"
+msgstr "Daha fazla"
+
+#: content/themes/default/templates/profile.tpl:159
+msgid "Do you know"
+msgstr "biliyormusunuz"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "To see what"
+msgstr "Ne görmek için"
+
+#: content/themes/default/templates/profile.tpl:163
+msgid "shares with friends"
+msgstr "Arkadaş grubu hisse"
+
+#: content/themes/default/templates/profile.tpl:165
+msgid "send a friend request"
+msgstr "bir arkadaş isteği göndermek"
+
+#: content/themes/default/templates/profile.tpl:267
+msgid "About"
+msgstr "Hakkında"
+
+#: content/themes/default/templates/profile.tpl:288
+msgid "Studied"
+msgstr "Okudu"
+
+#: content/themes/default/templates/profile.tpl:303
+msgid "Lives in"
+msgstr "Hayatımızda"
+
+#: content/themes/default/templates/profile.tpl:346
+msgid "Followed by"
+msgstr "Ardından:"
+
+#: content/themes/default/templates/profile.tpl:500
+msgid "doesn't have friends"
+msgstr "arkadaşı yok"
+
+#: content/themes/default/templates/profile.tpl:505
+msgid "No friends to show"
+msgstr "Arkadaşsız göstermek için"
+
+#: content/themes/default/templates/profile.tpl:570
+msgid "doesn't have followers"
+msgstr "takipçileri yok"
+
+#: content/themes/default/templates/profile.tpl:635
+msgid "doesn't have followings"
+msgstr "Aşağıdaki yok"
+
+#: content/themes/default/templates/profile.tpl:672
+#: content/themes/default/templates/profile.tpl:677
+msgid "No pages to show"
+msgstr "Hiçbir sayfa göstermek için"
+
+#: content/themes/default/templates/profile.tpl:716
+#: content/themes/default/templates/profile.tpl:721
+msgid "No groups to show"
+msgstr "Göstermek için grup yok"
+
+#: content/themes/default/templates/reset.tpl:6
+msgid "Reset Password"
+msgstr "Parolamı Sıfırla"
+
+#: content/themes/default/templates/reset.tpl:16
+msgid ""
+"Enter the email address you signed up with and we'll email you a reset link"
+msgstr ""
+"Siz kaydoldu ve biz bir Sıfırla bağlantısını e-posta göndereceğiz e-posta "
+"adresini girin"
+
+#: content/themes/default/templates/reset.tpl:26
+msgid "Email me a link"
+msgstr "Bana bir link e-posta"
+
+#: content/themes/default/templates/settings.tpl:111
+msgid "Current"
+msgstr "Şuan ki"
+
+#: content/themes/default/templates/settings.tpl:115
+msgid "New"
+msgstr "Yeni"
+
+#: content/themes/default/templates/settings.tpl:119
+msgid "Re-type new"
+msgstr "Yeni yeniden yazın"
+
+#: content/themes/default/templates/settings.tpl:149
+msgid "Basic"
+msgstr "Temel"
+
+#: content/themes/default/templates/settings.tpl:154
+msgid "Work"
+msgstr "İş"
+
+#: content/themes/default/templates/settings.tpl:159
+msgid "Location"
+msgstr "Konum (Adres)"
+
+#: content/themes/default/templates/settings.tpl:164
+msgid "Education"
+msgstr "EĞİTİM BİLGİLERİ"
+
+#: content/themes/default/templates/settings.tpl:492
+#: content/themes/default/templates/settings.tpl:520
+#: content/themes/default/templates/settings.tpl:548
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+#: content/themes/default/templates/settings.tpl:494
+#: content/themes/default/templates/settings.tpl:522
+#: content/themes/default/templates/settings.tpl:550
+msgid "Connect"
+msgstr "Bağlan"
+
+#: content/themes/default/templates/settings.tpl:499
+#: content/themes/default/templates/settings.tpl:502
+#: content/themes/default/templates/settings.tpl:504
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signup.tpl:15
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content/themes/default/templates/settings.tpl:502
+#: content/themes/default/templates/settings.tpl:530
+#: content/themes/default/templates/settings.tpl:558
+msgid "Your account is connected to"
+msgstr "Hesabınızın bağlandığı"
+
+#: content/themes/default/templates/settings.tpl:504
+#: content/themes/default/templates/settings.tpl:532
+#: content/themes/default/templates/settings.tpl:560
+msgid "Connect your account to"
+msgstr "Hesabınıza bağlanmak"
+
+#: content/themes/default/templates/settings.tpl:527
+#: content/themes/default/templates/settings.tpl:530
+#: content/themes/default/templates/settings.tpl:532
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signup.tpl:20
+msgid "Twitter"
+msgstr "Twitter"
+
+#: content/themes/default/templates/settings.tpl:555
+#: content/themes/default/templates/settings.tpl:558
+#: content/themes/default/templates/settings.tpl:560
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:25
+msgid "Google"
+msgstr "Google"
+
+#: content/themes/default/templates/settings.tpl:575
+msgid "Manage Blocking"
+msgstr "Engelleme yönetmek"
+
+#: content/themes/default/templates/settings.tpl:580
+msgid ""
+"Once you block someone, that person can no longer see things you post on "
+"your timeline"
+msgstr ""
+"Bir kez birini engellemek, bu kişi artık çizelgenizde sonrası şeyler "
+"görebilir"
+
+#: content/themes/default/templates/settings.tpl:581
+msgid "Note: Does not include apps, games or groups you both participate in"
+msgstr "Not: uygulamalar, oyunlar veya siz her iki katılmak grup içermez"
+
+#: content/themes/default/templates/settings.tpl:592
+msgid "No blocked users"
+msgstr "Engellenen kullanıcı yok"
+
+#: content/themes/default/templates/signin.tpl:19
+#: content/themes/default/templates/signin.tpl:24
+#: content/themes/default/templates/signin.tpl:29
+#: content/themes/default/templates/signup.tpl:15
+#: content/themes/default/templates/signup.tpl:20
+#: content/themes/default/templates/signup.tpl:25
+msgid "Login with"
+msgstr "Mantık ile"
+
+#: content/themes/default/templates/signup.tpl:39
+#: content/themes/default/templates/signup_social.tpl:16
+msgid "Full name"
+msgstr "Ad Soyad"
+
+#: content/themes/default/templates/signup_social.tpl:8
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: content/themes/default/templates/_header.messages.tpl:11
+msgid "Send a New Message"
+msgstr "Mesaj Gönder"
+
+#: content/themes/default/templates/_header.messages.tpl:23
+msgid "No messages"
+msgstr "Mesaj yok"
+
+#: content/themes/default/templates/_header.notifications.tpl:22
+msgid "No notifications"
+msgstr "Bildirim yok"
+
+#: content/themes/default/templates/_header.search.tpl:10
+msgid "See All Results"
+msgstr "Tüm Sonuçları Gör"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "Please go to"
+msgstr "Lütfen gidin"
+
+#: content/themes/default/templates/_header.tpl:23
+msgid "to complete the sign-up process"
+msgstr "kayıt işlemini tamamlamak için"
+
+#: content/themes/default/templates/_header.tpl:27
+msgid "Resend Activation Email"
+msgstr "Yeniden etkinleştirme e-posta gönderin"
+
+#: content/themes/default/templates/_header.tpl:31
+msgid "Change Email"
+msgstr "E-posta adresinizi değiştirin"
+
+#: content/themes/default/templates/_header.tpl:45
+msgid "The system has been shuttd down"
+msgstr "Sistem aşağı shuttd oldu"
+
+#: content/themes/default/templates/_header.tpl:46
+msgid "Turn it on from"
+msgstr "Üzerinden açmak"
+
+#: content/themes/default/templates/_header.tpl:141
+msgid "Log Out"
+msgstr "Çıkış Yap"
+
+#: content/themes/default/templates/_js_templates.tpl:15
+msgid "Not Logged In"
+msgstr "Giriş yapılmadı"
+
+#: content/themes/default/templates/_js_templates.tpl:18
+msgid "Please log in to continue"
+msgstr "Devam etmek için lütfen giriş yapınız"
+
+#: content/themes/default/templates/_js_templates.tpl:63
+#: content/themes/default/templates/_js_templates.tpl:122
+#: content/themes/default/templates/_js_templates.tpl:150
+#: content/themes/default/templates/_js_templates.tpl:181
+msgid "Cancel"
+msgstr "İptal"
+
+#: content/themes/default/templates/_js_templates.tpl:73
+msgid "Select Your Language"
+msgstr "Dil seçimi"
+
+#: content/themes/default/templates/_js_templates.tpl:96
+msgid "Check Your Email"
+msgstr "E-postanızı kontrol edin."
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid "Check your email"
+msgstr "E-postanızı kontrol edin."
+
+#: content/themes/default/templates/_js_templates.tpl:101
+msgid ""
+"We sent you an email with a six-digit confirmation code. Enter it below to "
+"continue to reset your password"
+msgstr ""
+"Seni altı basamaklı onay kodunu içeren bir e-posta gönderdik. Şifrenizi "
+"sıfırlamak devam etmek için aşağıya girin"
+
+#: content/themes/default/templates/_js_templates.tpl:114
+msgid "We sent your code to"
+msgstr "Kodunuzda gönderdiğimiz"
+
+#: content/themes/default/templates/_js_templates.tpl:121
+#: content/themes/default/templates/_js_templates.tpl:149
+#: content/themes/default/templates/_js_templates.tpl:180
+msgid "Continue"
+msgstr "Devam"
+
+#: content/themes/default/templates/_js_templates.tpl:130
+msgid "Change Your Password!"
+msgstr "Şifrenizi değiştirin"
+
+#: content/themes/default/templates/_js_templates.tpl:135
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+#: content/themes/default/templates/_js_templates.tpl:139
+msgid "Confirm Password"
+msgstr "Parolayı Doğrula"
+
+#: content/themes/default/templates/_js_templates.tpl:162
+msgid "Change Email Address"
+msgstr "E-posta adresini değiştirme"
+
+#: content/themes/default/templates/_js_templates.tpl:167
+msgid "Current Email"
+msgstr "Geçerli Kullanıcı - Eposta"
+
+#: content/themes/default/templates/_js_templates.tpl:172
+msgid "New Email"
+msgstr "'Yeni E-posta'"
+
+#: content/themes/default/templates/_js_templates.tpl:298
+msgid "Post Hidden"
+msgstr "Sonrası gizli"
+
+#: content/themes/default/templates/_js_templates.tpl:299
+msgid "This post will no longer appear to you"
+msgstr "Bu yazı artık görünecektir"
+
+#: content/themes/default/templates/_js_templates.tpl:300
+#: content/themes/default/templates/_js_templates.tpl:307
+#: content/themes/default/templates/_js_templates.tpl:315
+#: content/themes/default/templates/_js_templates.tpl:323
+msgid "Undo"
+msgstr "Geri al"
+
+#: content/themes/default/templates/_js_templates.tpl:306
+msgid "You won't see posts from"
+msgstr "Sen alışkanlık'görmek gelen mesajlar"
+
+#: content/themes/default/templates/_js_templates.tpl:306
+msgid "in News Feed anymore"
+msgstr "News Feed in artık"
+
+#: content/themes/default/templates/_js_templates.tpl:313
+msgid "Thanks for Your Help"
+msgstr "Yardımlarınız için teşekkürler"
+
+#: content/themes/default/templates/_js_templates.tpl:314
+msgid "Your feedback helps us keep site clear of spam"
+msgstr "Görüşlerinizi bize site spam açık tutmak yardımcı olur"
+
+#: content/themes/default/templates/_js_templates.tpl:321
+msgid "Comment Hidden"
+msgstr "Gizli yorum"
+
+#: content/themes/default/templates/_js_templates.tpl:322
+msgid "This comment has been hidden"
+msgstr "Bu yorum gizli"
+
+#: content/themes/default/templates/_js_templates.tpl:424
+msgid "To"
+msgstr "Kime"
+
+#: content/themes/default/templates/_js_translator.tpl:6
+msgid "Remove"
+msgstr "Kaldır"
+
+#: content/themes/default/templates/_js_translator.tpl:8
+msgid "Success"
+msgstr "Başarı"
+
+#: content/themes/default/templates/_js_translator.tpl:9
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: content/themes/default/templates/_js_translator.tpl:15
+msgid "Delete Cover"
+msgstr "Kapak silmek"
+
+#: content/themes/default/templates/_js_translator.tpl:16
+msgid "Delete Picture"
+msgstr "Fotoğrafı sil"
+
+#: content/themes/default/templates/_js_translator.tpl:17
+msgid "Delete Post"
+msgstr "Yazıyı sil"
+
+#: content/themes/default/templates/_js_translator.tpl:18
+msgid "Delete Comment"
+msgstr "Yorumu Sil"
+
+#: content/themes/default/templates/_js_translator.tpl:19
+msgid "Delete Conversation"
+msgstr "Konuşmayı Sil"
+
+#: content/themes/default/templates/_js_translator.tpl:20
+msgid "Share Post"
+msgstr "Yazıyı Paylaş"
+
+#: content/themes/default/templates/_js_translator.tpl:21
+msgid "Report User"
+msgstr "Rapor kullanıcı"
+
+#: content/themes/default/templates/_js_translator.tpl:22
+msgid "Block User"
+msgstr "Blok kullanıcı"
+
+#: content/themes/default/templates/_js_translator.tpl:23
+msgid "Unblock User"
+msgstr "Kullanıcının engelini kaldırmak"
+
+#: content/themes/default/templates/_js_translator.tpl:24
+msgid "Are you sure you want to delete this?"
+msgstr "Bunu silmek istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:25
+msgid "Are you sure you want to remove your cover photo?"
+msgstr "Kapak fotoğrafı kaldırmak istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:26
+msgid "Are you sure you want to remove your profile picture?"
+msgstr "Profil resmi kaldırmak istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:27
+msgid "Are you sure you want to delete this post?"
+msgstr "Bu gönderiyi silmek istediğinize eminmisiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:28
+msgid "Are you sure you want to share this post?"
+msgstr "Share Bu yazı istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:29
+msgid "Are you sure you want to delete this comment?"
+msgstr "Bu yorumu silmek istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:30
+msgid "Are you sure you want to delete this conversation?"
+msgstr "Bunu silmek istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:31
+msgid "Are you sure you want to report this user?"
+msgstr "Bu kullanıcı rapor etmek istiyor musunuz?"
+
+#: content/themes/default/templates/_js_translator.tpl:32
+msgid "Are you sure you want to block this user?"
+msgstr "Bu kullanıcı engellemek istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:33
+msgid "Are you sure you want to unblock this user?"
+msgstr "Bu kullanıcının engelini kaldırmak istediğinizden emin misiniz?"
+
+#: content/themes/default/templates/_js_translator.tpl:34
+msgid "There is some thing went worng!"
+msgstr "İşte bazı şey gitti sorun!"
+
+#: content/themes/default/templates/_js_translator.tpl:35
+msgid "There is no more data to show"
+msgstr "Göstermek için daha fazla veri yok"
+
+#: content/themes/default/templates/_js_translator.tpl:36
+msgid "This has been shared to your Timeline"
+msgstr "Bu zaman çizelgesi için paylaştırıldı"
+
+#: content/themes/default/templates/_js_translator.tpl:37
+msgid "Search for people, pages and #hashtags"
+msgstr "İnsanlar, sayfaları ve #hashtags için arama"
+
+#: content/themes/default/templates/_js_translator.tpl:38
+msgid "What is on your mind?"
+msgstr "Senin aklında ne var?"
+
+#: content/themes/default/templates/_posts.tpl:13
+#: content/themes/default/templates/_posts.tpl:40
+msgid "More Stories"
+msgstr "Daha Hikayeler"
+
+#: content/themes/default/templates/_posts.tpl:22
+#: content/themes/default/templates/_posts.tpl:49
+msgid "No posts to show"
+msgstr "﻿Gösterilecek yazılar"
+
+#: content/themes/default/templates/_posts.tpl:23
+msgid "Find Friends"
+msgstr "Arkadaşları Bul"
+
+#: content/themes/default/templates/_publisher.tpl:68
+msgid "Public"
+msgstr "Herkes"
+
+#: content/themes/default/templates/_publisher.tpl:74
+msgid "Post"
+msgstr "Yorum Yap"
+
+#: content/themes/default/templates/__ads.tpl:5
+msgid "Sponsored"
+msgstr "Sponsorluk"
+
+#: content/themes/default/templates/__feeds_game.tpl:8
+msgid "Play"
+msgstr "Oynat"
+
+#: content/themes/default/templates/__feeds_photo.comments.tpl:8
+#: content/themes/default/templates/__feeds_post.comments.tpl:8
+msgid "View previous comments"
+msgstr "Önceki yorumları görüntüle"
+
+#: content/themes/default/templates/__feeds_post.tpl:34
+#: content/themes/default/templates/__feeds_post.tpl:76
+msgid "Hide this post"
+msgstr "Bu yazı gizle"
+
+#: content/themes/default/templates/__feeds_post.tpl:36
+#: content/themes/default/templates/__feeds_post.tpl:78
+msgid "See fewer posts like this"
+msgstr "Böyle daha az mesajlar görmek"
+
+#: content/themes/default/templates/__feeds_post.tpl:42
+msgid "Unfollow"
+msgstr "Takibi bırak"
+
+#: content/themes/default/templates/__feeds_post.tpl:44
+msgid "Stop seeing posts but stay friends"
+msgstr "Mesajını görüşmeyi kes ama arkadaş kalmak"
+
+#: content/themes/default/templates/__feeds_post.tpl:51
+#: content/themes/default/templates/__feeds_post.tpl:85
+msgid "Delete post"
+msgstr "Yazıyı sil"
+
+#: content/themes/default/templates/__feeds_post.tpl:57
+#: content/themes/default/templates/__feeds_post.tpl:91
+msgid "Report post"
+msgstr "Raporu sonrası]"
+
+#: content/themes/default/templates/__feeds_post.tpl:111
+msgid "shared"
+msgstr "Paylaşıldı!"
+
+#: content/themes/default/templates/__feeds_post.tpl:115
+msgid "'s"
+msgstr "s"
+
+#: content/themes/default/templates/__feeds_post.tpl:120
+#: content/themes/default/templates/__feeds_post.tpl:141
+msgid "photos"
+msgstr "FOTOĞRAFLAR"
+
+#: content/themes/default/templates/__feeds_post.tpl:120
+msgid "photo"
+msgstr "fotoğraf"
+
+#: content/themes/default/templates/__feeds_post.tpl:123
+msgid "video"
+msgstr "video"
+
+#: content/themes/default/templates/__feeds_post.tpl:125
+msgid "song"
+msgstr "Parça"
+
+#: content/themes/default/templates/__feeds_post.tpl:128
+msgid "link"
+msgstr "bağlantı"
+
+#: content/themes/default/templates/__feeds_post.tpl:130
+msgid "post"
+msgstr "yazı"
+
+#: content/themes/default/templates/__feeds_post.tpl:135
+msgid "shared a link"
+msgstr "paylaşılan bir bağlantı"
+
+#: content/themes/default/templates/__feeds_post.tpl:139
+msgid "added a photo"
+msgstr "bir fotoğraf eklendi"
+
+#: content/themes/default/templates/__feeds_post.tpl:141
+msgid "added"
+msgstr "Eklendi"
+
+#: content/themes/default/templates/__feeds_post.tpl:253
+msgid "Show Attachments"
+msgstr "Ekleri göster"
+
+#: content/themes/default/templates/__feeds_post.tpl:275
+msgid "Share"
+msgstr "Paylaş"
+
+#: content/themes/default/templates/__feeds_post.tpl:300
+msgid "shares"
+msgstr "hisse senetleri"
+
+#: content/themes/default/templates/__feeds_user.tpl:41
+msgid "Unblock"
+msgstr "Engelini kaldırmak"
+
+#: includes/class-image.php:26 includes/class-image.php:39
+msgid "The file type is not valid image"
+msgstr "Dosya türü geçerli görüntü değil"
+
+#: includes/class-user.php:692
+msgid "You have already blocked this user before!"
+msgstr "Zaten bu kullanıcının daha önce engellediğiniz!"
+
+#: includes/class-user.php:995
+msgid "Accepted your friend request"
+msgstr "Arkadaş isteğini kabul"
+
+#: includes/class-user.php:1001
+msgid "Now following you"
+msgstr "Şimdi seni takip"
+
+#: includes/class-user.php:1008
+msgid "Likes your post"
+msgstr "Yazınızı seviyor"
+
+#: includes/class-user.php:1012 includes/class-user.php:1020
+msgid "Likes your comment"
+msgstr "Yorum seviyor"
+
+#: includes/class-user.php:1016
+msgid "Likes your photo"
+msgstr "Fotoğraf sever"
+
+#: includes/class-user.php:1028
+msgid "Commented on your post"
+msgstr "Yazınızı yorumladı"
+
+#: includes/class-user.php:1032
+msgid "Commented on your photo"
+msgstr "Senin resmi için yorumladı"
+
+#: includes/class-user.php:1039
+msgid "Shared your post"
+msgstr "Senin posta paylaşılan"
+
+#: includes/class-user.php:1046
+msgid "Mentioned you in a post"
+msgstr "Bir posta belirtildiği"
+
+#: includes/class-user.php:1050 includes/class-user.php:1054
+msgid "Mentioned you in a comment"
+msgstr "Açıklamada bahsedilen"
+
+#: includes/class-user.php:1258
+msgid "more"
+msgstr "Daha fazla bilgi"
+
+#: includes/class-user.php:1320
+msgid "You are not authorized to view this"
+msgstr "Bu görüntüleme yetkiniz yok"
+
+#: includes/class-user.php:1382 includes/class-user.php:1431
+msgid "You are not authorized to do this"
+msgstr "Bunun için yetkiniz yok"
+
+#: includes/class-user.php:2621
+msgid "You have already reported this user before!"
+msgstr "Zaten daha önce bu kullanıcı rapor!"
+
+#: includes/class-user.php:2903 includes/class-user.php:2907
+#: includes/class-user.php:2946 includes/class-user.php:2950
+msgid "You must select valid category for your page"
+msgstr "Sayfanız için geçerli kategori seçmelisiniz"
+
+#: includes/class-user.php:2911 includes/class-user.php:2954
+msgid "You must enter a title for your page"
+msgstr "Sayfanız için bir başlık girmelisiniz"
+
+#: includes/class-user.php:2914 includes/class-user.php:2957
+#: includes/class-user.php:3023 includes/class-user.php:3057
+msgid "Page title must be at least 3 characters long. Please try another"
+msgstr ""
+"Sayfa başlığı en az 3 karakter uzunluğunda olmalıdır. Lütfen bir tane daha "
+"dene"
+
+#: includes/class-user.php:2918 includes/class-user.php:2962
+msgid "You must enter a username for your page"
+msgstr "Sayfanız için bir kullanıcı adı girmeniz gerekir"
+
+#: includes/class-user.php:2921 includes/class-user.php:2965
+#: includes/class-user.php:3030 includes/class-user.php:3065
+#: includes/class-user.php:3226 includes/class-user.php:3436
+#: includes/class-user.php:3696 includes/ajax/admin/user.php:60
+msgid "Please enter a valid username (a-z0-9_.)"
+msgstr "Lütfen geçerli bir kullanıcı adı (a-z0-9_.) girin"
+
+#: includes/class-user.php:2924 includes/class-user.php:2968
+#: includes/class-user.php:3033 includes/class-user.php:3068
+msgid "Sorry, it looks like this username"
+msgstr "Üzgünüz, bu kullanıcı adı gibi görünüyor"
+
+#: includes/class-user.php:2924 includes/class-user.php:2968
+msgid "belongs to an existing page"
+msgstr "Varolan bir sayfaya ait"
+
+#: includes/class-user.php:3020 includes/class-user.php:3054
+msgid "You must enter a title for your group"
+msgstr "Grubunuz için bir başlık girmelisiniz"
+
+#: includes/class-user.php:3027 includes/class-user.php:3062
+msgid "You must enter a username for your group"
+msgstr "Grubunuz için bir kullanıcı adı girmeniz gerekir"
+
+#: includes/class-user.php:3033 includes/class-user.php:3068
+msgid "belongs to an existing group"
+msgstr "Varolan bir gruba ait"
+
+#: includes/class-user.php:3229 includes/class-user.php:3243
+#: includes/class-user.php:3439 includes/class-user.php:3445
+#: includes/class-user.php:3699 includes/class-user.php:3705
+#: includes/class-user.php:3756 includes/class-user.php:3928
+#: includes/ajax/admin/static.php:47 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "Sorry, it looks like"
+msgstr "Üzgünüz, gibi görünüyor"
+
+#: includes/class-user.php:3229 includes/class-user.php:3243
+#: includes/class-user.php:3439 includes/class-user.php:3445
+#: includes/class-user.php:3699 includes/class-user.php:3705
+#: includes/class-user.php:3928 includes/ajax/admin/user.php:63
+#: includes/ajax/admin/user.php:80
+msgid "belongs to an existing account"
+msgstr "mevcut firmaya ait"
+
+#: includes/class-user.php:3240 includes/class-user.php:3442
+#: includes/class-user.php:3702 includes/class-user.php:3753
+#: includes/ajax/admin/user.php:77
+msgid "Please enter a valid email address"
+msgstr "Lütfen geçerli bir eposta adresi girin"
+
+#: includes/class-user.php:3251 includes/class-user.php:3478
+#: includes/class-user.php:3879 includes/class-user.php:3936
+msgid "Just one more step to get started on"
+msgstr "Başlamak için sadece bir adım daha"
+
+#: includes/class-user.php:3252 includes/class-user.php:3479
+#: includes/class-user.php:3774 includes/class-user.php:3880
+#: includes/class-user.php:3937
+msgid "Hi"
+msgstr "Merhaba"
+
+#: includes/class-user.php:3253 includes/class-user.php:3480
+#: includes/class-user.php:3881 includes/class-user.php:3938
+msgid "To complete the sign-up process, please follow this link:"
+msgstr "Kayıt işlemini tamamlamak için lütfen bu bağlantıyı takip edin:"
+
+#: includes/class-user.php:3256 includes/class-user.php:3483
+#: includes/class-user.php:3777 includes/class-user.php:3884
+#: includes/class-user.php:3941
+msgid "Team"
+msgstr "Takım"
+
+#: includes/class-user.php:3276 includes/class-user.php:3282
+#: includes/class-user.php:3503 includes/class-user.php:3509
+#: includes/class-user.php:3961 includes/class-user.php:3967
+msgid "Activation email could not be sent. But you can login now"
+msgstr "Etkinleştirme e-posta gönderilemedi. Ama şimdi giriş yapabilirsiniz"
+
+#: includes/class-user.php:3291 includes/class-user.php:3433
+#: includes/class-user.php:3530 includes/class-user.php:3693
+msgid "You must fill in all of the fields"
+msgstr "Tüm alanları doldurmanız gerekir"
+
+#: includes/class-user.php:3295
+msgid "Your current password is incorrect"
+msgstr "Mevcut şifreniz hatalı."
+
+#: includes/class-user.php:3299
+msgid "Your passwords do not match"
+msgstr "Parolalar uyuşmuyor"
+
+#: includes/class-user.php:3302 includes/class-user.php:3448
+#: includes/class-user.php:3708 includes/class-user.php:3850
+#: includes/ajax/admin/user.php:93
+msgid "Your password must be at least 6 characters long. Please try another"
+msgstr ""
+"Şifre en az 6 karakter uzunluğunda olmalıdır. Lütfen bir tane daha dene"
+
+#: includes/class-user.php:3311
+msgid "You must enter your name"
+msgstr "İsminizi girmelisiniz"
+
+#: includes/class-user.php:3314 includes/class-user.php:3451
+#: includes/class-user.php:3711
+msgid "Your name contains invalid characters"
+msgstr "Senin adı geçersiz karakterler içeriyor"
+
+#: includes/class-user.php:3317 includes/class-user.php:3454
+#: includes/class-user.php:3714
+msgid "Your name must be at least 3 characters long. Please try another"
+msgstr ""
+"Adınız en az 3 karakter uzunluğunda olmalıdır. Lütfen bir tane daha dene"
+
+#: includes/class-user.php:3321 includes/class-user.php:3457
+#: includes/class-user.php:3717
+msgid "Please select either Male or Female"
+msgstr "Erkek veya kadın seçiniz"
+
+#: includes/class-user.php:3326
+msgid "Please select a valid birth month"
+msgstr "Lütfen geçerli doğum ayı seçin"
+
+#: includes/class-user.php:3329
+msgid "Please select a valid birth day"
+msgstr "Lütfen geçerli doğum günü seçin"
+
+#: includes/class-user.php:3332
+msgid "Please select a valid birth year"
+msgstr "Lütfen geçerli doğum yılı seçin"
+
+#: includes/class-user.php:3466 includes/class-user.php:3764
+msgid "The secuirty check is incorrect. Please try again"
+msgstr "Güvenlik onay yanlıştır. Lütfen yeniden deneyin"
+
+#: includes/class-user.php:3535
+msgid "The email you entered does not belong to any account"
+msgstr "Girdiğiniz e-posta herhangi bir hesaba ait değil"
+
+#: includes/class-user.php:3540
+msgid "Please enter a valid email address or username"
+msgstr "Lütfen geçerli bir eposta adresi girin"
+
+#: includes/class-user.php:3543
+msgid "The username you entered does not belong to any account"
+msgstr "Girdiğiniz kullanıcı adı herhangi bir hesaba ait değil"
+
+#: includes/class-user.php:3550
+msgid "Please re-enter your password"
+msgstr "<strong>HATA</strong>: Lütfen parolanızı girin."
+
+#: includes/class-user.php:3550
+msgid "The password you entered is incorrect"
+msgstr "Girdiğiniz şifre yanlış."
+
+#: includes/class-user.php:3550
+msgid "If you forgot your password?"
+msgstr "Şifrenizi unuttuysanız?"
+
+#: includes/class-user.php:3550
+msgid "Request a new one"
+msgstr "Yeni bir istek"
+
+#: includes/class-user.php:3756
+msgid "doesn't belong to any account"
+msgstr "herhangi bir hesaba ait değil"
+
+#: includes/class-user.php:3773
+msgid "Forget password activation key!"
+msgstr "Parola harekete geçirmek anahtar unut!"
+
+#: includes/class-user.php:3775
+msgid "To complete the reset password process, please copy this token:"
+msgstr "Sıfırlama parola işlemini tamamlamak için bu belirteç kopyalayın:"
+
+#: includes/class-user.php:3776
+msgid "Token:"
+msgstr "Token:"
+
+#: includes/class-user.php:3797 includes/class-user.php:3803
+msgid "Activation key email could not be sent!"
+msgstr "Harekete geçirmek anahtar e-posta gönderilemedi."
+
+#: includes/class-user.php:3819 includes/class-user.php:3841
+#: includes/class-user.php:3925
+msgid "Invalid email, please try again"
+msgstr "Geçersiz e-posta, lütfen deneyin tekrar"
+
+#: includes/class-user.php:3824 includes/class-user.php:3846
+msgid "Invalid code, please try again."
+msgstr "Kod geçersiz lütfen tekrar deneyin."
+
+#: includes/class-user.php:3854
+msgid "Your passwords do not match. Please try another"
+msgstr "Senin parola eşleşmiyor. Lütfen bir tane daha dene"
+
+#: includes/class-user.php:3904 includes/class-user.php:3910
+msgid "Activation email could not be sent."
+msgstr "E-posta gönderilemedi"
+
+#: includes/functions.php:40
+msgid "Database Error"
+msgstr "Veritabanı hatası."
+
+#: includes/functions.php:41 includes/functions.php:45
+msgid "An error occurred while writing to database. Please try again later"
+msgstr ""
+"Veritabanına yazılırken bir hata oluştu. Lütfen daha sonra yeniden deneyin"
+
+#: includes/functions.php:50
+msgid "404 Not Found"
+msgstr "404 Bulunamadı"
+
+#: includes/functions.php:51
+msgid "The requested URL was not found on this server. That's all we know"
+msgstr "İstenen URL bu sunucuda bulunamadı. Tek bildiğimiz bu"
+
+#: includes/functions.php:64
+msgid "There is some thing went wrong"
+msgstr "Var bir şey yanlış gitti"
+
+#: includes/functions.php:331
+msgid "You must sign in to see this page"
+msgstr "Bu sayfa görmek için kaydolmanız gerekir"
+
+#: includes/functions.php:332
+msgid "Sign in"
+msgstr "Giriş yapın"
+
+#: includes/ajax/admin/ads.php:35
+msgid "Done, Ads info have been updated"
+msgstr "Bitmiş, reklamlar bilgi güncellendi"
+
+#: includes/ajax/admin/category.php:33
+msgid "Done, Category info have been updated"
+msgstr "Bitmiş, Kategori bilgileri güncellendi"
+
+#: includes/ajax/admin/games.php:33
+msgid "Done, Game info have been updated"
+msgstr "Bitmiş, oyun bilgisi güncelleme"
+
+#: includes/ajax/admin/group.php:27
+msgid "Done, Group info have been updated"
+msgstr "Bitmiş, Grup bilgisi güncellendi"
+
+#: includes/ajax/admin/language.php:40
+msgid "Done, Language info have been updated"
+msgstr "Yapılır, dil bilgisi güncellendi"
+
+#: includes/ajax/admin/page.php:29
+msgid "Done, Page info have been updated"
+msgstr "Bitmiş, sayfa bilgileri güncellendi"
+
+#: includes/ajax/admin/static.php:35
+msgid "Done, Static page info have been updated"
+msgstr "Bitmiş, statik sayfa bilgileri güncellendi"
+
+#: includes/ajax/admin/static.php:43
+msgid "Please enter a valid URL to your page"
+msgstr "Lütfen, sayfa için geçerli bir URL girin"
+
+#: includes/ajax/admin/static.php:47
+msgid "belongs to an existing static page"
+msgstr "Varolan statik sayfaya ait"
+
+#: includes/ajax/admin/theme.php:35
+msgid "Done, Theme info have been updated"
+msgstr "Bitmiş, Tema bilgileri güncellendi"
+
+#: includes/ajax/admin/user.php:38
+msgid "You can not change the group of this user"
+msgstr "Eğer bu kullanıcı grubu değiştirmek mümkün değil"
+
+#: includes/ajax/admin/user.php:43 includes/ajax/admin/user.php:53
+#: includes/ajax/admin/user.php:68 includes/ajax/admin/user.php:85
+#: includes/ajax/admin/user.php:98 includes/ajax/admin/user.php:111
+msgid "Done, User info have been updated"
+msgstr "Bitmiş, kullanıcı bilgisi güncellendi"
+
+#: includes/ajax/admin/widgets.php:35
+msgid "Done, Widget info have been updated"
+msgstr "Bitmiş, Widget Bilgi güncellendi"
+
+#: includes/ajax/chat/get.conversation.php:22
+#: includes/ajax/chat/get.messages.php:22 includes/ajax/chat/post.php:22
+#: includes/ajax/chat/reaction.php:22 includes/ajax/data/create.php:22
+#: includes/ajax/data/delete.php:22 includes/ajax/data/load.php:22
+#: includes/ajax/data/report.php:22 includes/ajax/data/search.php:22
+#: includes/ajax/data/upload.php:25 includes/ajax/posts/comment.php:22
+#: includes/ajax/posts/post.php:22 includes/ajax/posts/reaction.php:22
+#: includes/ajax/posts/scraber.php:22 includes/ajax/posts/who_likes.php:22
+#: includes/ajax/posts/who_shares.php:22 includes/ajax/users/connect.php:22
+#: includes/ajax/users/image.php:22 includes/ajax/users/mutual_friends.php:22
+#: includes/ajax/users/popover.php:22 includes/ajax/users/settings.php:22
+msgid ""
+"Before you can interact with other users, you need to confirm your email "
+"address"
+msgstr ""
+"Önce diğer kullanıcılarla etkileşim kurabilir, e-posta adresinizi "
+"onaylamanız gerekir"
+
+#: includes/ajax/core/activation_email_resend.php:22
+#: includes/ajax/core/activation_email_reset.php:22
+msgid "Your account already activated!"
+msgstr "Zaten harekete geçirmek senin rapor!"
+
+#: includes/ajax/core/activation_email_resend.php:28
+msgid "Another activation email has been sent"
+msgstr "Başka bir etkinleştirme e-posta gönderildi"
+
+#: includes/ajax/core/activation_email_resend.php:28
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Please click on the link in that email to confirm your email address"
+msgstr ""
+"Lütfen e-posta adresinizi onaylamak için bu e-postadaki linke tıklayın"
+
+#: includes/ajax/core/activation_email_reset.php:28
+msgid "Your email has been changed"
+msgstr "E-posta değiştirildi"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Done"
+msgstr "Yapıldı"
+
+#: includes/ajax/core/forget_password_reset.php:23
+msgid "Your password has been changed you can login now"
+msgstr "Şifrenizi değiştirildi şimdi giriş yapabilirsiniz"
+
+#: includes/ajax/core/signup.php:22 includes/ajax/core/signup_social.php:22
+msgid "Registration is closed right now"
+msgstr "Kayıt şu anda kapalı"
+
+#: includes/ajax/data/report.php:45
+msgid "Thanks"
+msgstr "Teşekkür Ederiz"
+
+#: includes/ajax/data/report.php:45
+msgid "Your report has been submitted"
+msgstr "Başarıyla gönderildi. Teşekkür ederiz!"
+
+#: includes/ajax/data/upload.php:35 includes/ajax/data/upload.php:39
+#: includes/ajax/data/upload.php:55
+msgid "Upload Error"
+msgstr "Yüklenirken hata oluştu"
+
+#: includes/ajax/data/upload.php:35
+msgid "Something wrong with upload! Is 'upload_max_filesize' set correctly?"
+msgstr "Bir yükleme ile sorun! 'Upload_max_filesize' doğru ayarlanmış mı?"
+
+#: includes/ajax/data/upload.php:39
+msgid "The file size is so big"
+msgstr "Dosya boyutu çok büyük"
+
+#: includes/ajax/data/upload.php:55
+msgid "Sorry, can not upload the file"
+msgstr "Üzgünüz, dosya yükleyemiyorum"
+
+#: includes/ajax/users/settings.php:44
+msgid "Done, Your username has been updated"
+msgstr "Bitmiş, kullanıcı adınızı güncellendi"
+
+#: includes/ajax/users/settings.php:56
+msgid "Done, Your email has been updated"
+msgstr "İş, e-posta güncellendi"
+
+#: includes/ajax/users/settings.php:70
+msgid "Done, Your password has been updated"
+msgstr "Bitmiş, parolanızı güncellendi"
+
+#: includes/ajax/users/settings.php:86 includes/ajax/users/settings.php:99
+#: includes/ajax/users/settings.php:112 includes/ajax/users/settings.php:126
+msgid "Done, Your profile info has been updated"
+msgstr "Bitmiş, profil bilgilerinizi güncellendi"
+
+#: includes/ajax/users/settings.php:145
+msgid "Done, Your privacy settings have been updated"
+msgstr "Bitmiş, gizlilik ayarlarınızı güncellendi"
+
+#~ msgid "Sign up with"
+#~ msgstr "İşaret yukarıya ile"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Gizlilik Politikası"
+
+#~ msgid "Terms of Use"
+#~ msgstr "Kullanım Koşulları"

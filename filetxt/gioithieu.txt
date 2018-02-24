@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>CẦN VIẾT LẠI NỘI DUNG GIỚI THIỆU</strong></span></p>
+<p style="text-align: center;"><strong>DSI VIET CORPORATION</strong></p>
+<p style="text-align: justify;">DSI VIET l&agrave; th&agrave;nh vi&ecirc;n của DSI Group &ndash; The Netherlands, một trong những c&ocirc;ng ty h&agrave;ng đầu tại H&agrave; Lan chuy&ecirc;n về Tư Vấn Quản L&yacute; Bất Động Sản, c&aacute;c giải ph&aacute;p cho ng&agrave;nh x&acirc;y dựng Hệ Thống Giao Th&ocirc;ng, cung cấp c&aacute;c Hệ Thống Pipelines hiện đại bật nhất tại H&agrave; Lan cũng như cho c&ocirc;ng đồng Ch&acirc;u &Acirc;u.</p>
+<p style="text-align: justify;">Hiện tại, DSI VIET l&agrave; th&agrave;nh vi&ecirc;n của HoREA, Hiệp Hội Bất Động Sản TP.HCM, v&agrave; c&ocirc;ng ty đang họat động dưới ph&aacute;p nh&acirc;n l&agrave; c&ocirc;ng ty Việt Nam 100% vốn. Phương ch&acirc;m họat động của ch&uacute;ng t&ocirc;i l&agrave; phục vụ kh&aacute;ch h&agrave;ng một c&aacute;ch tận t&igrave;nh v&agrave; tận t&acirc;m với &ldquo; Một cam kết h&ograve;an hảo cho người Việt &ldquo;.</p>
+<p style="text-align: justify;">DSI VIET cam kết phục vụ v&agrave; cung cấp c&aacute;c Giải Ph&aacute;p tối ưu nhất cho kh&aacute;ch h&agrave;ng trong lĩnh vực Quản L&yacute; Bất Động Sản. Cộng t&aacute;c với DSI VIET, Qu&yacute; C&ocirc;ng Ty sẽ được phục vụ một c&aacute;ch tận t&igrave;nh v&agrave; rất chuy&ecirc;n nghiệp của những người Việt Nam được học tập theo ti&ecirc;u chuẩn Ch&acirc;u &Acirc;u.</p>
+<p style="text-align: justify;">Chi ph&iacute; gi&agrave;nh cho người việt Ti&ecirc;u chuẩn chuy&ecirc;n nghiệp Ch&acirc;u &Acirc;u</p>
+<p style="text-align: center;"><strong>TẠI SAO PHẢI CHỌN CH&Uacute;NG T&Ocirc;I,... ???</strong></p>
+<p><em><strong>KINH NGHIỆM QUẢN L&Yacute; BẤT ĐỘNG SẢN</strong></em></p>
+<p style="text-align: justify;">Ban Gi&aacute;m Đốc cao cấp của ch&uacute;ng t&ocirc;i l&agrave; những người đ&atilde; từng học tập tại ĐH QueBec, Montreal-Canada với học vị MBA v&agrave; c&aacute;c chuy&ecirc;n gia người Việt học tại trường Allied School, một trong những trường chuy&ecirc;n về Tư Vấn Quản L&yacute; Bất Động Sản nổi tiếng tại Ch&acirc;u &Acirc;u. Ch&uacute;ng t&ocirc;i l&agrave; người Việt Nam, rất ham hiểu về thị trường Bất Động Sản tại TP.HCM cũng như tại Việt Nam. Am hiểu thấu đ&aacute;o nhu cầu v&agrave; thị hiếu của từng người d&acirc;n Việt. Ch&uacute;ng ta h&atilde;y tự h&agrave;o v&igrave; ch&uacute;ng ta l&agrave; những người d&acirc;n Việt chỉ Tư Vấn v&agrave; Quản L&yacute; cho những Căn Nh&agrave; Việt nơi người Việt sinh sống.</p>
+<p><em><strong>NGHI&Ecirc;N CỨU THỊ TRƯỜNG</strong></em></p>
+<p style="text-align: justify;">DSI VIET l&agrave; th&agrave;nh vi&ecirc;n của Hiệp Hội Bất Động Sản TP.HCM v&agrave; cũng l&agrave; th&agrave;nh vi&ecirc;n của DSI Group &ndash; The Netherlands. Do vậy, c&aacute;c họat động của ch&uacute;ng t&ocirc;i đ&atilde; v&agrave; đang được hỗ trợ bằng c&aacute;c Dữ Liệu chuy&ecirc;n nghiệp trong việc nghi&ecirc;n cứu thị trường Bất Động Sản tại Việt Nam m&agrave; những c&ocirc;ng ty nước ng&ograve;ai kh&ocirc;ng thể c&oacute; được.</p>
+<p><em><strong>CUNG C&Aacute;CH L&Agrave;M VIỆC</strong></em></p>
+<p style="text-align: justify;">Ch&uacute;ng t&ocirc;i lu&ocirc;n cam kết phục vụ tận t&acirc;m, mang t&iacute;nh chuy&ecirc;n nghiệp bởi những con người Việt năng động, chuy&ecirc;n m&ocirc;n vững, học vị cao. Những dịch vụ m&agrave; ch&uacute;ng t&ocirc;i cung cấp đều dựa tr&ecirc;n những kinh nghiệm l&acirc;u năm m&agrave; ch&uacute;ng t&ocirc;i c&oacute; được từ C&ocirc;ng ty mẹ DSI Group &ndash; The Netherlands, v&agrave; những kinh nghiệm thực tiển m&agrave; ch&uacute;ng t&ocirc;i đ&atilde; đ&uacute;c kết trong nhiều năm qua.</p>
+<p><em><strong>HỆ THỐNG TH&Ocirc;NG TIN</strong></em></p>
+<p style="text-align: justify;">DSI VIET lu&ocirc;n cam kết giữ t&iacute;nh bảo mật cao cho những th&ocirc;ng tin cần bảo mật của mọi kh&aacute;ch h&agrave;ng. Dữ liệu nghi&ecirc;n cứu l&agrave; nền tảng trong c&ocirc;ng việc kinh doanh của DSI. Do vậy, ch&uacute;ng t&ocirc;i ch&uacute; trọng cung cấp những giải ph&aacute;p tốt nhất cho việc bảo vệ những th&ocirc;ng tin dữ liệu của kh&aacute;c hh&agrave;ng cũng như l&agrave; cho DSI VIET.</p>
+<p>Năng động, Chuy&ecirc;n nghiệp, Hiệu quả v&agrave; Ch&iacute;nh x&aacute;c</p>
+</body>
+</html>

@@ -1,0 +1,12 @@
+﻿<p style="text-align: center;">&copy; Copyright 2006&nbsp;<a href="http://icanmax.com/" style="line-height: 1.6em;">icanmax.com</a></p>
+
+<p style="text-align:center">Bản quyền của C&ocirc;ng ty DSI VIET COMPANY LTD<br />
+Sử dụng kỹ thuật của DSI Holland Group - The Netherlands &amp; DBS-HFE 7.2<br />
+Giấy ph&eacute;p số: 178/GP-BC do Bộ Văn H&oacute;a Th&ocirc;ng Tin &ndash; H&agrave; Nội cấp ng&agrave;y: 04/05/2007<br />
+Chịu tr&aacute;ch nhiệm xuất bản: Gi&aacute;m Đốc C&ocirc;ng Ty DSI VIET<br />
+&reg; Ghi r&otilde; nguồn &quot;icanmax.com&quot; khi bạn ph&aacute;t h&agrave;nh lại th&ocirc;ng tin từ website n&agrave;y.<br />
+Cơ quan chủ quản: DSI VIET COMPANY LTD<br />
+Điện thoại: Binh Duong Tel: 84-650-6275789 Fax: 84-650-6275789&nbsp;<br />
+HCMC: Tel: 84-8-37245888-37246988 Fax: 84-8-37245666<br />
+E-mail:&nbsp;<a href="mailto:info@dsiviet.com.vn" style="text-align: center;">info@dsiviet.com.vn</a>&nbsp;Or<br><a href="mailto:Sales@dsiviet.com.vn" style="text-align: center;">Sales@dsiviet.com.vn</a><br />
+Website:&nbsp;<a href="http://www.dsiviet.com.vn/" style="text-align: center;">www.dsiviet.com.vn</a></p>

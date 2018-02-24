@@ -1,0 +1,65 @@
+<table border="0" cellpadding="1" cellspacing="1" style="width:555px">
+	<tbody>
+		<tr>
+			<td>
+			<p>Danh s&aacute;ch thu&ecirc; xe HCM</p>
+
+			<table border="1" cellpadding="1" cellspacing="1" style="width:555px">
+				<tbody>
+					<tr>
+						<td><strong>STT</strong></td>
+						<td><strong>Nh&agrave; xe</strong></td>
+						<td><strong>Điện thoại -&nbsp;Địa chỉ</strong></td>
+					</tr>
+					<tr>
+						<td>1</td>
+						<td><strong>Cty Du lịch THUẬN THẢO</strong></td>
+						<td>
+						<p><span style="color:rgb(0, 0, 0); font-family:arial,helvetica,sans-serif; font-size:12px">0907070790/08.35088879</span></p>
+
+						<div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(0, 0, 0); line-height: normal;">
+						<p>41 Th&acirc;n Nh&acirc;n Trung, P.13, Q.T&acirc;n B&igrave;nh<br />
+						32/5 Ng&ocirc; Bệ, P.13, Q. T&acirc;n B&igrave;nh</p>
+
+						<p><a href="mailto:dulichthuanthao@yahoo.com.vn" style="text-align: center; text-decoration: none;" target="_blank">dulichthuanthao@yahoo.com.vn</a></p>
+						</div>
+						</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td><strong>Cty TNHH TM-DV-VC TH&Agrave;NH ĐẠT</strong></td>
+						<td>
+						<p>08 931 7760</p>
+
+						<p>16/16, Kỳ Đồng, Phường 9, Quận 3.<br />
+						Website:thanhdatco.com.vn<br />
+						Email:thanhdat@thanhdatco.com.vn</p>
+						</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td><strong>Hải &acirc;u</strong></td>
+						<td>
+						<p><span style="color:rgb(0, 0, 0); font-family:arial,helvetica,sans-serif; font-size:12px">8.224.724</span></p>
+
+						<p><span style="color:rgb(0, 0, 0); font-family:arial,helvetica,sans-serif; font-size:12px">25 Hai b&agrave; Trưng - P.Bến Ngh&eacute; - Q.1</span></p>
+						</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td><strong>Du lịch Khải Phương</strong></td>
+						<td>
+						<p>2200138 -&nbsp;0982 229 933</p>
+
+						<p>90A L&yacute; Thường Kiệt P.14, Quận 10<br />
+						Email:<a href="mailto:khaiphuongtravel@yahoo.com.vn" style="text-decoration: none;">khaiphuongtravel@yahoo.com.vn</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
